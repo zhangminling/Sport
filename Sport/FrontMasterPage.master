@@ -1,0 +1,494 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="FrontMasterPage.master.cs" Inherits="FrontMasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+     <link href="assets/css/style1.css" rel="stylesheet" type="text/css"/>
+     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+     <link href="css/fontello.css" rel="stylesheet" type="text/css" />
+		<link href="css/flexslider.css" rel="stylesheet" type="text/css" />
+		<link href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css" media="screen" />
+		<link href="css/owl.carousel.css" rel="stylesheet" type="text/css" />
+		<link href="css/chosen.css" rel="stylesheet" type="text/css" />
+		<link href="jackbox/css/jackbox.min.css" rel="stylesheet" type="text/css" />
+		<link href="css/cloud-zoom.css" rel="stylesheet" type="text/css" />
+		<link href="css/style1.css" rel="stylesheet" type="text/css" />
+    
+  	<!--[if IE 9]>
+			<link rel="stylesheet" href="css/ie9.css">
+		<![endif]-->
+		
+		<!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<link href="css/jackbox-ie8.css" rel="stylesheet" type="text/css" />
+			<link rel="stylesheet" href="css/ie.css">
+        <![endif]-->
+		
+		<!--[if gt IE 8]>
+			<link href="css/jackbox-ie9.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		
+		<!--[if IE 7]>
+			<link rel="stylesheet" href="css/fontello-ie7.css">
+		<![endif]-->
+		
+		<style type="text/css">
+			.no-fouc {display:none;}
+	  	</style>
+		
+		<!-- jQuery -->
+		<script src="js/jquery-1.11.0.min.js"></script>
+		<script src="js/jquery-ui-1.10.4.min.js"></script>
+		
+		<!-- Preloader -->
+		<script src="js/jquery.queryloader2.min.js"></script>
+		
+		<script type="text/javascript">
+		    $('html').addClass('no-fouc');
+
+		    $(document).ready(function () {
+
+		        $('html').show();
+
+		        var window_w = $(window).width();
+		        var window_h = $(window).height();
+		        var window_s = $(window).scrollTop();
+
+		        $("body").queryLoader2({
+		            backgroundColor: '#f2f4f9',
+		            barColor: '#63b2f5',
+		            barHeight: 4,
+		            percentage: false,
+		            deepSearch: true,
+		            minimumTime: 1000,
+		            onComplete: function () {
+
+		                $('.animate-onscroll').filter(function (index) {
+
+		                    return this.offsetTop < (window_s + window_h);
+
+		                }).each(function (index, value) {
+
+		                    var el = $(this);
+		                    var el_y = $(this).offset().top;
+
+		                    if ((window_s) > el_y) {
+		                        $(el).addClass('animated fadeInDown').removeClass('animate-onscroll');
+		                        setTimeout(function () {
+		                            $(el).css('opacity', '1').removeClass('animated fadeInDown');
+		                        }, 2000);
+		                    }
+
+		                });
+
+		            }
+		        });
+
+		    });
+		</script>  	
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <style type="text/css">
+        .menu >li>a
+        {
+            list-style-type:none;
+        }
+    </style>
+<div class="bg-header">
+    <div class="container_12">
+      <div class="grid_2 alpha">
+        <div class="logo">
+          <a href="index.aspx"><img alt="Clubix Logo" src=
+          "assets/img/logo.png" /></a>
+        </div>
+      </div>
+      <div class="consumer">
+      <ul>
+     <!--<li class="choise">
+      		<select class="select-header">
+            <option>广州</option>
+            <option>广州</option>
+            <option>广州</option>
+            <option>广州</option>
+            </select>
+      </li>-->
+      </ul>
+     
+      </div>
+    </div>
+  </div>
+
+<div class="bg-header-menu">
+    <div class="container_12">
+      <div class="grid_10 alpha">
+        <ul class="menu">
+          <li>
+            <a href="index.aspx"class="selected">首页</a>
+          </li>
+
+          <li>
+            <a href="sport.aspx">运动热点</a>
+
+            <ul class="sub-menu-header">
+              <li>
+                <a class="template-based-element-background-hover" href=
+                "blog-page.html">Blog Posts</a>
+              </li>
+
+              <li>
+                <a class="template-based-element-background-hover" href=
+                "blog-page-single.html">Blog Post</a>
+              </li>
+
+              <li>
+                <a class="template-based-element-background-hover" href=
+                "blog-page-single-carousel.html">Blog Post Carousel</a>
+              </li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="business-activities.aspx">商家活动</a>
+
+            <ul class="sub-menu-header">
+              <li>
+                <a class="template-based-element-background-hover" href=
+                "albums-page.html">Albums</a>
+              </li>
+
+              <li>
+                <a class="template-based-element-background-hover" href=
+                "events-single-page.html">Event Page</a>
+              </li>
+
+              <li>
+                <a class="template-based-element-background-hover" href=
+                "business-activities.aspx">Events</a>
+              </li>
+
+              <li>
+                <a class="template-based-element-background-hover" href=
+                "events-page-2.html">Events 2</a>
+              </li>
+
+              <li>
+                <a class="template-based-element-background-hover" href=
+                "photos-page.html">Photos</a>
+              </li>
+
+              <li>
+                <a class="template-based-element-background-hover" href=
+                "videos-page.html">Videos</a>
+              </li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="sharing.aspx">约记分享</a>
+
+            <ul class="sub-menu-header">
+              <li>
+                <a class="template-based-element-background-hover" href=
+                "elements.html">Elements</a>
+              </li>
+
+              <li>
+                <a class="template-based-element-background-hover" href=
+                "typography.html">Typography</a>
+              </li>
+
+              <li>
+                <a class="template-based-element-background-hover" href=
+                "error.html">Error Page</a>
+              </li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="contact.html">商城</a>
+          </li><li>
+            <a href="http://www.cssmoban.com/">更多</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="grid_2 search omega alpha container-search-top">
+        <form action="#" method="post">
+          <div class="input-bg">
+            <input name="search" onblur=
+            "if(this.value == ''){this.value = this.defaultValue}" onclick=
+            "if (this.value == this.defaultValue) { this.value = '' }" type="text"
+            value="Search...">
+          </div>
+
+          <div class=
+          "bg-submit-search template-based-element-background-color-hover">
+            <input class="submit-button-search" id="submit-header-search" name=
+            "submit" type="submit" value="">
+          </div>
+
+          <div class="clear"></div>
+        </form>
+      </div>
+
+      <ul class="phone-menu">
+        <li class="page-menu">
+          <a>Home <span></span></a>
+
+          <ul>
+            <li>
+              <a href="index.aspx">首页</a>
+            </li>
+
+            <li>
+              <a href="sport.aspx">运动热点</a>
+
+              <ul>
+                <li>
+                  <a href="blog-page.html">Blog Posts</a>
+                </li>
+
+                <li>
+                  <a href="blog-page-single.html">Blog Post</a>
+                </li>
+
+                <li>
+                  <a href="blog-page-single-carousel.html">Blog Post
+                  Carousel</a>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <a href="business-activities.aspx">商家活动</a>
+
+              <ul>
+                <li>
+                  <a href="albums-page.html">Albums</a>
+                </li>
+
+                <li>
+                  <a href="events-single-page.html">Event Page</a>
+                </li>
+
+                <li>
+                  <a href="events-page.html">Events</a>
+                </li>
+
+                <li>
+                  <a href="events-page-2.html">Events 2</a>
+                </li>
+
+                <li>
+                  <a href="photos-page.html">Photos</a>
+                </li>
+
+                <li>
+                  <a href="videos-page.html">Videos</a>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <a href="sharing.aspx">约记分享</a>
+
+              <ul>
+                <li>
+                  <a href="elements.html">Elements</a>
+                </li>
+
+                <li>
+                  <a href="typography.html">Typography</a>
+                </li>
+
+                <li>
+                  <a href="error.html">Error Page</a>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+            <a href="contact.html">商城</a>
+          </li><li>
+            <a href="http://www.cssmoban.com/">更多</a>
+          </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+<div class="container-footer-top template-based-element-border-color">
+  <div class="grid_1 omega">
+        <a class="back-to-top template-based-element-background" href=
+        "#"  ><span class="icon-back-to-top"></span></a>
+      </div>
+    <div class="container_12">
+      <ul class="footer-top-itm">
+        <li class="grid_3">
+          <a class="logo-footer" href="index.html"><img alt="Clubix Logo" src=
+          "assets/img/logo.png" /></a>
+
+          <p class="italic">Lorem ipsum ex vix illud nonummy, novum tation et
+          his. At vix scriptaset patrioque scribentur, at pro fugit erts</p>
+
+          <p class="italic">Srterem molestiae, sed et vivendo ali Lorem ipsum
+          ex vix illud nonummy, novum tation et his. At vix scripta</p>
+        </li>
+
+        <li class="grid_3">
+          <h1 class="footer-top-title">Recent Posts</h1>
+
+          <ul class="recent-post-footer">
+            <li>
+              <a class="template-based-element-color-hover" href=
+              "blog-page-single.html">Voluptas Sadips Ipsums Dolors</a>
+            </li>
+
+            <li>
+              <a class="template-based-element-color-hover" href=
+              "blog-page-single.html-2">Fugiats Litora Ultrices Ante</a>
+            </li>
+
+            <li>
+              <a class="template-based-element-color-hover" href=
+              "blog-page-single.html-3">Sapien Litora Dolores Ultrices</a>
+            </li>
+
+            <li>
+              <a class="template-based-element-color-hover" href=
+              "blog-page-single.html-4">Nemis Fugiats Voluptas Dolores</a>
+            </li>
+          </ul>
+        </li>
+
+        <li class="grid_3">
+          <h1 class="footer-top-title">twitter</h1>
+
+          <ul class="twitter-footer-top">
+            <li>
+              <p class="italic"><span>@ dratio</span> Metus, id placerat justo
+              sagittis id.</p>
+            </li>
+
+            <li>
+              <p class="italic"><span>@ buris</span> Curabitur ultrices
+              sollicitudin metus, id placerat justo sagittis id... risus auctor
+              congue ac et risus.</p>
+            </li>
+          </ul>
+        </li>
+
+        <li class="grid_3">
+          <h1 class="footer-top-title">flickr</h1>
+
+          <ul class="flickr-list-footer-top">
+            <li>
+              <a href="#"><img alt="flickr" src=
+              "assets/img/flickr-img.png"></a>
+            </li>
+
+            <li>
+              <a href="#"><img alt="flickr" src=
+              "assets/img/flickr-img.png"></a>
+            </li>
+
+            <li>
+              <a href="#"><img alt="flickr" src=
+              "assets/img/flickr-img.png"></a>
+            </li>
+
+            <li>
+              <a href="#"><img alt="flickr" src=
+              "assets/img/flickr-img.png"></a>
+            </li>
+          </ul>
+
+          <ul class="flickr-list-footer-top">
+            <li>
+              <a href="#"><img alt="flickr" src=
+              "assets/img/flickr-img.png"></a>
+            </li>
+
+            <li>
+              <a href="#"><img alt="flickr" src=
+              "assets/img/flickr-img.png"></a>
+            </li>
+
+            <li>
+              <a href="#"><img alt="flickr" src=
+              "assets/img/flickr-img.png"></a>
+            </li>
+
+            <li>
+              <a href="#"><img alt="flickr" src=
+              "assets/img/flickr-img.png"></a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>        
+  </div>
+</body>
+    	<!-- Bootstrap -->
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+		
+		<!-- Modernizr -->
+		<script type="text/javascript" src="js/modernizr.js"></script>
+		
+		<!-- Sliders/Carousels -->
+		<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+		<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+		
+		<!-- Revolution Slider  -->
+		<script type="text/javascript" src="js/revolution-slider/js/jquery.themepunch.plugins.min.js"></script>
+		<script type="text/javascript" src="js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
+		
+		<!-- Calendar -->
+		<script type="text/javascript" src="js/responsive-calendar.min.js"></script>
+		
+		<!-- Raty -->
+		<script type="text/javascript" src="js/jquery.raty.min.js"></script>
+		
+		<!-- Chosen -->
+		<script type="text/javascript" src="js/chosen.jquery.min.js"></script>
+		
+		<!-- jFlickrFeed -->
+		<script type="text/javascript" src="js/jflickrfeed.min.js"></script>
+		
+		<!-- InstaFeed -->
+		<script type="text/javascript" src="js/instafeed.min.js"></script>
+		
+		<!-- Twitter -->
+		<script type="text/javascript" src="php/twitter/jquery.tweet.js"></script>
+		
+		<!-- MixItUp -->
+		<script type="text/javascript" src="js/jquery.mixitup.js"></script>
+		
+		<!-- JackBox -->
+		<script type="text/javascript" src="jackbox/js/jackbox-packed.min.js"></script>
+		
+		<!-- CloudZoom -->
+		<script type="text/javascript" src="js/zoomsl-3.0.min.js"></script>
+		
+		<!-- Main Script -->
+		<script type="text/javascript" src="js/script.js"></script>
+		
+		
+		<!--[if lt IE 9]>
+			<script type="text/javascript" src="js/jquery.placeholder.js"></script>
+			<script type="text/javascript" src="js/script_ie.js"></script>
+		<![endif]-->
+
+</html>
