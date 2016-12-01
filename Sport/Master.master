@@ -117,14 +117,10 @@ $(document).ready(function() {
       </div>
       <div class="consumer">
       <ul>
-     <!--<li class="choise">
-      		<select class="select-header">
-            <option>广州</option>
-            <option>广州</option>
-            <option>广州</option>
-            <option>广州</option>
-            </select>
-      </li>-->
+     <li class="register-message">
+          <a href="#" class="register">用户登录</a><span> |</span>
+          <a href="#" class="message">用户注册</a>            
+      </li>
       </ul>
      
       </div>

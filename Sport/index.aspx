@@ -127,14 +127,10 @@
       </div>
       <div class="consumer">
       <ul>
-     <!--<li class="choise">
-      		<select class="select-header">
-            <option>广州</option>
-            <option>广州</option>
-            <option>广州</option>
-            <option>广州</option>
-            </select>
-      </li>-->
+     <li class="register-message">
+          <a href="#" class="register">用户登录</a><span> |</span>
+          <a href="#" class="message">用户注册</a>            
+      </li>
       </ul>     
       </div>
     </div>
@@ -485,7 +481,8 @@
               <div class="bg-pink-flip template-based-element-background-color-transparent">
               <h1 class="title-flipp">我们一起健身的时光</h1>
                 <div class="under-line-flipp"></div>
-                <p>是等明年继续许愿,还是现在就开始改变？</p><a class="more-info-flipp" href="sharing-single.aspx">详情</a>
+                <p>是等明年继续许愿,还是现在就开始改变？</p>
+                  <a class="more-info-flipp" href="sharing-single.aspx">详情</a>
               </div>
             </div>
           </div>
@@ -493,17 +490,13 @@
 
         <li>
           <div class="flipping-albums-events container-flip-caption">
-            <img alt="fabulous" class="img-front-bg" src="assets/img/251_250.jpg" />
+            <img alt="fabulous" class="img-front-bg" src="assets/img/about-sharing/5.jpg" />
             <div class="caption">
-              <img alt="fabulous" class="img-pink-bg" src= "assets/img/251_250.jpg" />
+              <img alt="fabulous" class="img-pink-bg" src="assets/img/about-sharing/5.jpg" />
               <div class="bg-pink-flip template-based-element-background-color-transparent">
-              <h1 class="title-flipp">Mamaia beach tornament</h1>
-
+              <h1 class="title-flipp">活动照片-射箭</h1>
                 <div class="under-line-flipp"></div>
-
-                <p>Mauris iaculis porttitor posuere. Praesent id metus massa,
-                ut blandit odio. Proin quis tortor orci.</p><a class=
-                "more-info-flipp" href="photos-page.html">more info</a>
+                <p>一小时任射_体验更精彩,除了玩,什么都不用管</p><a class="more-info-flipp" href="photos-page.html">详情</a>
               </div>
             </div>
           </div>
@@ -511,20 +504,14 @@
 
         <li>
           <div class="flipping-albums-events container-flip-caption">
-            <img alt="fabulous" class="img-front-bg" src="assets/img/251_250.jpg" />
-
+            <img alt="fabulous" class="img-front-bg" src="assets/img/about-sharing/4.jpg" />
             <div class="caption">
-              <img alt="fabulous" class="img-pink-bg" src= "assets/img/251_250.jpg" />
-
-              <div class=
-              "bg-pink-flip template-based-element-background-color-transparent">
-              <h1 class="title-flipp">Mamaia beach tornament</h1>
-
+              <img alt="fabulous" class="img-pink-bg" src="assets/img/about-sharing/4.jpg" />
+              <div class="bg-pink-flip template-based-element-background-color-transparent">
+              <h1 class="title-flipp">12月4日穿越云髻山</h1>
                 <div class="under-line-flipp"></div>
-
-                <p>Mauris iaculis porttitor posuere. Praesent id metus massa,
-                ut blandit odio. Proin quis tortor orci.</p><a class=
-                "more-info-flipp" href="blog-page-single.html">more info</a>
+                <p>广东的香格里拉 只寻找那一片红枫叶</p>
+                  <a class="more-info-flipp" href="blog-page-single.html">详情</a>
               </div>
             </div>
           </div>
@@ -532,20 +519,14 @@
 
         <li>
           <div class="flipping-albums-events container-flip-caption">
-            <img alt="fabulous" class="img-front-bg" src= "assets/img/251_250.jpg" />
-
+            <img alt="fabulous" class="img-front-bg" src="assets/img/about-sharing/7.jpg" />
             <div class="caption">
-              <img alt="fabulous" class="img-pink-bg" src= "assets/img/251_250.jpg" />
-
-              <div class=
-              "bg-pink-flip template-based-element-background-color-transparent">
-              <h1 class="title-flipp">Mamaia beach tornament</h1>
-
+              <img alt="fabulous" class="img-pink-bg" src= "assets/img/about-sharing/7.jpg" />
+              <div class="bg-pink-flip template-based-element-background-color-transparent">
+              <h1 class="title-flipp">徒步，呼吸新鲜空气</h1>
                 <div class="under-line-flipp"></div>
-
-                <p>Mauris iaculis porttitor posuere. Praesent id metus massa,
-                ut blandit odio. Proin quis tortor orci.</p><a class=
-                "more-info-flipp" href="albums-single-page.html">more info</a>
+                <p>一片树林里，感受了不一样的早晨，不再是窝在被窝里</p>
+                  <a class="more-info-flipp" href="albums-single-page.html">详情</a>
               </div>
             </div>
           </div>
@@ -553,20 +534,14 @@
 
         <li>
           <div class="flipping-albums-events container-flip-caption">
-            <img alt="fabulous" class="img-front-bg" src= "assets/img/251_250.jpg" />
-
+            <img alt="fabulous" class="img-front-bg" src="assets/img/about-sharing/9.jpg" />
             <div class="caption">
-              <img alt="fabulous" class="img-pink-bg" src="assets/img/251_250.jpg" />
-
-              <div class=
-              "bg-pink-flip template-based-element-background-color-transparent">
-              <h1 class="title-flipp">Mamaia beach tornament</h1>
-
+              <img alt="fabulous" class="img-pink-bg" src="assets/img/about-sharing/9.jpg" />
+              <div class="bg-pink-flip template-based-element-background-color-transparent">
+              <h1 class="title-flipp">怀念古城的韵味</h1>
                 <div class="under-line-flipp"></div>
-
-                <p>Mauris iaculis porttitor posuere. Praesent id metus massa,
-                ut blandit odio. Proin quis tortor orci.</p><a class=
-                "more-info-flipp" href="events-single-page.html">more info</a>
+                <p>历经几百年，青苔已经布满城砖</p>
+                  <a class="more-info-flipp" href="events-single-page.html">详情</a>
               </div>
             </div>
           </div>
@@ -574,22 +549,14 @@
 
         <li>
           <div class="flipping-albums-events container-flip-caption">
-            <img alt="fabulous" class="img-front-bg" src=
-            "assets/img/251_250.jpg" />
-
+            <img alt="fabulous" class="img-front-bg" src="assets/img/about-sharing/11.jpg" />
             <div class="caption">
-              <img alt="fabulous" class="img-pink-bg" src=
-              "assets/img/251_250.jpg">
-
-              <div class=
-              "bg-pink-flip template-based-element-background-color-transparent">
-              <h1 class="title-flipp">Mamaia beach tornament</h1>
-
+              <img alt="fabulous" class="img-pink-bg" src="assets/img/about-sharing/11.jpg" />
+              <div class="bg-pink-flip template-based-element-background-color-transparent">
+              <h1 class="title-flipp">纪念去珠江边跑步</h1>
                 <div class="under-line-flipp"></div>
-
-                <p>Mauris iaculis porttitor posuere. Praesent id metus massa,
-                ut blandit odio. Proin quis tortor orci.</p><a class=
-                "more-info-flipp" href="photos-page.html">more info</a>
+                <p>我们只通过夜跑减压，有缘相聚，为身体加点能量</p>
+                  <a class="more-info-flipp" href="photos-page.html">详情</a>
               </div>
             </div>
           </div>
@@ -597,22 +564,14 @@
 
         <li>
           <div class="flipping-albums-events container-flip-caption">
-            <img alt="fabulous" class="img-front-bg" src=
-            "assets/img/251_250.jpg">
-
+            <img alt="fabulous" class="img-front-bg" src="assets/img/about-sharing/12.jpg" />
             <div class="caption">
-              <img alt="fabulous" class="img-pink-bg" src=
-              "assets/img/251_250.jpg" />
-
-              <div class=
-              "bg-pink-flip template-based-element-background-color-transparent">
-              <h1 class="title-flipp">Mamaia beach tornament</h1>
-
+              <img alt="fabulous" class="img-pink-bg" src="assets/img/about-sharing/12.jpg"  />
+              <div class="bg-pink-flip template-based-element-background-color-transparent">
+              <h1 class="title-flipp">游泳的乐趣</h1>
                 <div class="under-line-flipp"></div>
-
-                <p>Mauris iaculis porttitor posuere. Praesent id metus massa,
-                ut blandit odio. Proin quis tortor orci.</p><a class=
-                "more-info-flipp" href="albums-single-page.html">more info</a>
+                <p>本身作为一项自救救人技能，也能健身</p>
+                  <a class="more-info-flipp" href="albums-single-page.html">详情</a>
               </div>
             </div>
           </div>
@@ -661,61 +620,31 @@
               </div>
               <div class="right-content">
                 <a class="title-post" href="blog-page-single.html">  戶外 ▏徒步广州 城内中山先生线(免费)，约么？</a>
-
                 <div class="clear"></div>
 
                 <div class="info-post">
                   <ul>
-                    <li>
-                      <img alt="user" src="assets/img/user-post-icon.png" />
-
-                      <p><a class="template-based-element-color-hover" href=
-                      "#">历史</a></p>
-                    </li>
-
-                    <li>
-                      <img alt="comment" src=
-                      "assets/img/comments-post-icon.png" />
-
-                      <p><a class="template-based-element-color-hover" href=
-                      "blog-page-single.html#comments">文化</a></p>
-                    </li>
-
-                    <li>
-                      <img alt="time" src="assets/img/time-post-icon.png" />
-
-                      <p><a class="template-based-element-color-hover" href=
-                      "blog-page-single.html">学术</a></p>
-                    </li>
-
-                      <li>
-                     <p><a class="template-based-element-color-hover" href=
-                      "blog-page-single.html">老广州</a></p>
-                    </li>
+                    <li><p>历史</p></li>
+                    <li><p>文化</p></li>
+                    <li><p>学术</p></li>
+                    <li><p>老广州</p></li>
                   </ul>
                 </div>
 
                  <div class="info-point">
                   <ul>
                     <li>
-                      <p><a class="template-based-element-color-hover" href=
-                      "#">时间：</a></p>
+                      <p>时间：2016/12/15</p>
                     </li>
-
                     <li>
-                      <p><a class="template-based-element-color-hover" href=
-                      "blog-page-single.html#comments">地点：</a></p>
+                      <p>地点：广州 海珠区广州市荔湾区沿江西路29号</p>
                     </li>
-
                     <li>
-                      <p><a class="template-based-element-color-hover" href=
-                      "blog-page-single.html">发起人：</a></p>
+                      <p>发起人：Luise_Zitrone</p>
                     </li>                     
                   </ul>
                 </div>
-                  <a class=
-                "read-more template-based-element-background-color" href=
-                "sport-single.aspx">详情</a>
+                  <a class="read-more template-based-element-background-color" href="sport-single.aspx">详情</a>
               </div>
 
               <div class="clear"></div>
@@ -723,54 +652,35 @@
 
             <div class="post-container">
               <div class="left-content">
-                <img alt="post-img" class="post-img" src=
-                "assets/img/119_119.jpg">
-
-                
+                <img alt="post-img" class="post-img" src="assets/img/activity/activity2.jpg" />
               </div>
-
               <div class="right-content">
-                <a class="title-post" href="blog-page-single.html">Here come
-                bloag title lorem ipsum dolor ? Dino ninoou can’t take this
-                test because dorms afnt</a>
-
+                <a class="title-post" href="blog-page-single.html">  游泳 ▏广州奥体游泳馆游泳活动</a>
                 <div class="clear"></div>
 
                 <div class="info-post">
                   <ul>
-                    <li>
-                      <img alt="user" src="assets/img/user-post-icon.png" />
-
-                      <p><a class="template-based-element-color-hover" href=
-                      "#">Ses Vasile Daniel</a> in <a class=
-                      "template-based-element-color-hover" href=
-                      "#">developing</a></p>
-                    </li>
-
-                    <li>
-                      <img alt="comment" src=
-                      "assets/img/comments-post-icon.png" />
-
-                      <p><a class="template-based-element-color-hover" href=
-                      "blog-page-single.html#comments">100 comments</a></p>
-                    </li>
-
-                    <li>
-                      <img alt="time" src="assets/img/time-post-icon.png" />
-
-                      <p><a class="template-based-element-color-hover" href=
-                      "blog-page-single.html">21 Mai 2013</a></p>
-                    </li>
+                    <li><p>健身</p></li>
+                    <li><p>交流</p></li>
+                    <li><p>运动</p></li>
+                    <li><p>同城</p></li>
                   </ul>
                 </div>
 
-                <p class="content-post-text">Morbi gravida, ligula eget lacinia
-                auctor, mi quam vestibulum dolor, in iaculis ante nulla eu
-                nisi. Integer molestie commodo euismod. Morbi pellentesque
-                turpis diam, ac interdum erat rutrum et. Aliquam
-                dapibus</p><a class=
-                "read-more template-based-element-background-color" href=
-                "blog-page-single.html">Read more</a>
+                 <div class="info-point">
+                  <ul>
+                    <li>
+                      <p>时间：2016/2/5</p>
+                    </li>
+                    <li>
+                      <p>地点：广州 天河区 黄村奥林匹克中心</p>
+                    </li>
+                    <li>
+                      <p>发起人：乐友</p>
+                    </li>                     
+                  </ul>
+                </div>
+                  <a class="read-more template-based-element-background-color" href="sport-single.aspx">详情</a>
               </div>
 
               <div class="clear"></div>
@@ -778,54 +688,35 @@
 
             <div class="post-container">
               <div class="left-content">
-                <img alt="post-img" class="post-img" src=
-                "assets/img/119_119.jpg" />
-
-                
+                <img alt="post-img" class="post-img" src="assets/img/activity/activity3.jpg" />
               </div>
-
               <div class="right-content">
-                <a class="title-post" href="blog-page-single.html">Here come
-                bloag title lorem ipsum dolor ? Dino ninoou can’t take this
-                test because dorms afnt</a>
-
+                <a class="title-post" href="blog-page-single.html">  CBD Hangout ▏周末我们一起去爬白云山吧</a>
                 <div class="clear"></div>
 
                 <div class="info-post">
                   <ul>
-                    <li>
-                      <img alt="user" src="assets/img/user-post-icon.png" />
-
-                      <p><a class="template-based-element-color-hover" href=
-                      "#">Ses Vasile Daniel</a> in <a class=
-                      "template-based-element-color-hover" href=
-                      "#">developing</a></p>
-                    </li>
-
-                    <li>
-                      <img alt="comment" src=
-                      "assets/img/comments-post-icon.png" />
-
-                      <p><a class="template-based-element-color-hover" href=
-                      "blog-page-single.html#comments">100 comments</a></p>
-                    </li>
-
-                    <li>
-                      <img alt="time" src="assets/img/time-post-icon.png" />
-
-                      <p><a class="template-based-element-color-hover" href=
-                      "blog-page-single.html">21 Mai 2013</a></p>
-                    </li>
+                    <li><p>爬山</p></li>
+                    <li><p>文化</p></li>
+                    <li><p>交流</p></li>
+                    <li><p>运动</p></li>
                   </ul>
                 </div>
 
-                <p class="content-post-text">Morbi gravida, ligula eget lacinia
-                auctor, mi quam vestibulum dolor, in iaculis ante nulla eu
-                nisi. Integer molestie commodo euismod. Morbi pellentesque
-                turpis diam, ac interdum erat rutrum et. Aliquam
-                dapibus</p><a class=
-                "read-more template-based-element-background-color" href=
-                "blog-page-single.html">Read more</a>
+                 <div class="info-point">
+                  <ul>
+                    <li>
+                      <p>时间：2016/10/5</p>
+                    </li>
+                    <li>
+                      <p>地点：广州 白云区 京溪地铁站C出口</p>
+                    </li>
+                    <li>
+                      <p>发起人：无水</p>
+                    </li>                     
+                  </ul>
+                </div>
+                  <a class="read-more template-based-element-background-color" href="sport-single.aspx">详情</a>
               </div>
 
               <div class="clear"></div>
@@ -865,32 +756,15 @@
                 
                   <div class="grid_4 omega alpha">
                  
-                    <div class=
-                    "information-block-container-two event-sidebar-block">
+                    <div class="information-block-container-two event-sidebar-block">
                         <div class="container-information"> 
                             <ul class="linkgrid">
                                 <li><a href="#"><strong>兴趣活动小组</strong><span class="person-info">发现志同道合的圈子</span></a>
-
-                                    <div class="features-01">
-                                      <div class="person-img">
-                                           <img alt="make-events" class="container-img" src="assets/img/club.jpg" />
-                                           <div class="bg-pink-li-feauture template-based-element-background-color">
-                                           </div>
-                                          <div class="feature template-based-element-background-color-transparent">       
-                                          </div>
-                                     </div>
-                                  </div>
+                                   <div class="features-01"> <img alt="make-events" class="container-img" src="assets/img/chat2.png" /></div>
+                                    
                                 </li>
                                 <li><a href="#"><strong>主办方系列活动</strong><span class="person-info">主办方的主题活动</span></a>
-                                    <div class="features-01">
-                                      <div class="person-img">
-                                           <img alt="make-events" class="container-img" src="assets/img/300_288.jpg" />
-                                           <div class="bg-pink-li-feauture template-based-element-background-color">
-                                           </div>
-                                          <div class="feature template-based-element-background-color-transparent">       
-                                          </div>
-                                     </div>
-                                  </div>
+                                    <div class="features-01"> <img alt="make-events" class="container-img" src="assets/img/interface.png" /></div>
                                 </li>
                             </ul>                                                       
                                            
@@ -927,43 +801,43 @@
 			<ul>
 				<li>
 					<p><a href="http://www.16sucai.com/" target="_blank" class="name_1h">天天凌爱</a><em>等3人推荐了约记</em></p>
-					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">面朝大海：行摄光影霞浦，中国...</a><span>17:28:05</span></p>                    
+					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">面朝大海：行摄光影霞浦...</a><span>17:28:05</span></p>                    
 				</li>
 				<li>
 					<p><a href="http://www.16sucai.com/" target="_blank" class="name_1h">默燃LYH</a><em>等21人推荐了游记</em></p>
-					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">网游战江湖公测豪华礼包</a><span>17:28:05</span></p>                   
+					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">与其去节食减肥，不如多做运动</a><span>17:28:05</span></p>                   
 				</li>
 				<li>
 					<p><a href="http://www.16sucai.com/" target="_blank" class="name_1h">于与其的...</a><em>等21人推荐了游记</em></p>
-					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">人生不止于赚钱，还要活出多彩...</a><span>17:28:05</span></p>
+					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">人生永不停步，还要活出多彩...</a><span>17:28:05</span></p>
 				</li>
 				<li>
 					<p><a href="http://www.16sucai.com/" target="_blank" class="name_1h">fujioish</a><em>等16人推荐了游记</em></p>
-					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">人生不止于赚钱，还要活出多彩...</a><span>17:28:05</span></p>
+					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">有空约起来，我等你们哈..</a><span>17:28:05</span></p>
 				</li>
 				<li>
 					<p><a href="http://www.16sucai.com/" target="_blank" class="name_1h">麦芮7</a><em>等29人推荐了游记</em></p>
-					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">人生不止于赚钱，还要活出多彩...</a><span>17:28:05</span></p>
+					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">每天都跟我的一堆“约友”们一起</a><span>17:28:05</span></p>
 				</li>
 				<li>
 					<p><a href="http://www.16sucai.com/" target="_blank" class="name_1h">天天凌爱</a><em>等3人推荐了约记</em></p>
-					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">面朝大海：行摄光影霞浦，中国...</a><span>17:28:05</span></p>
+					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">运动是生活中必不可少的一部分</a><span>17:28:05</span></p>
 				</li>
 				<li>
 					<p><a href="http://www.16sucai.com/" target="_blank" class="name_1h">默燃LYH</a><em>等21人推荐了游记</em></p>
-					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">网游战江湖公测豪华礼包</a><span>17:28:05</span></p>
+					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">对身心都有好处，让人心归一处</a><span>17:28:05</span></p>
 				</li>
 				<li>
 					<p><a href="http://www.16sucai.com/" target="_blank" class="name_1h">于与其的...</a><em>等21人推荐了游记</em></p>
-					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">人生不止于赚钱，还要活出多彩...</a><span>17:28:05</span></p>
+					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">你永远不知道自己有多优秀...</a><span>17:28:05</span></p>
 				</li>
 				<li>
 					<p><a href="http://www.16sucai.com/" target="_blank" class="name_1h">fujioish</a><em>等16人推荐了游记</em></p>
-					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">人生不止于赚钱，还要活出多彩...</a><span>17:28:05</span></p>
+					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">享受自由，在这里得以缓冲..</a><span>17:28:05</span></p>
 				</li>
 				<li>
 					<p><a href="http://www.16sucai.com/" target="_blank" class="name_1h">麦芮7</a><em>等29人推荐了游记</em></p>
-					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">人生不止于赚钱，还要活出多彩...</a><span>17:28:05</span></p>
+					<p><a href="http://www.16sucai.com/" target="_blank" class="a_blue">减轻精神压力，缓和烦躁的情绪</a><span>17:28:05</span></p>
 				</li>
 			</ul>
 		</div>
@@ -1010,8 +884,7 @@
            <ul class="latest-events">
         <li class="listFilterItem" data-filter="tomorrow">
           <div class="flipping-albums-events container-flip-caption">
-            <img alt="latest-event" class="img-latest-event" src=
-            "assets/img/message-sport/huodong.jpg" />
+            <img alt="latest-event" class="img-latest-event" src="assets/img/message-sport/huodong.jpg" />
 
             <div class="black-sec-tornament">
               <h1 class="title-latst-h1"><a href=
@@ -1029,7 +902,7 @@
                 <li>
                   <img alt="date" src="assets/img/date-icon.png" />
 
-                  <p>19/12/2016</p>
+                  <p>2016/12/10</p>
                 </li>
               </ul>
             </div>
@@ -1044,7 +917,7 @@
                 <div class="under-line-flipp"></div>
 
                 <div class="time-latest-events-flipp">
-                  10 / NOVEMBER / 2016
+                  2016 / 12 / 10
                 </div>
 
                 <p class="description-tournament">5月23日晚，珠江纯生生啤酒派对2015年热辣开幕！广州塔彻夜难眠，开启了一场全球独一无二的“万人奔跑音乐派对”！！
@@ -1068,57 +941,43 @@
             </div>
           </div>
         </li>
-
         <li class="listFilterItem" data-filter="next week">
           <div class="flipping-albums-events container-flip-caption">
-            <img alt="latest-event" class="img-latest-event" src=
-            "assets/img/300_272.jpg" />
-
+            <img alt="latest-event" class="img-latest-event" src="assets/img/message-sport/huodong6.jpg" />
             <div class="black-sec-tornament">
-              <h1 class="title-latst-h1"><a href=
-              "events-single-page.html">Mamaia beach tornament</a></h1>
-
+              <h1 class="title-latst-h1"><a href= "events-single-page.html">我要跑，谁也拦不住 </a></h1>
               <div class="underline-title-latest-events"></div>
-
               <ul class="info-latest-events">
                 <li>
                   <img alt="place" src="assets/img/place-icon-2.png" />
-
-                  <p>Vama Veche, Romania</p>
+                  <p>广州, 天河区</p>
                 </li>
-
                 <li>
                   <img alt="date" src="assets/img/date-icon.png" />
-
-                  <p>19/12/2013</p>
+                  <p>2016/12/12</p>
                 </li>
               </ul>
             </div>
 
             <div class="back caption">
-              <img alt="latest-event" class="img-latest-event" src=
-              "assets/img/300_272.jpg" />
-
+              <img alt="latest-event" class="img-latest-event" src="assets/img/message-sport/huodong6.jpg" />
               <div class="bg-black-flip">
-                <h1 class="title-flipp">Mamaia beach tornament</h1>
+                <h1 class="title-flipp">我要跑，谁也拦不住 </h1>
 
                 <div class="under-line-flipp"></div>
 
                 <div class="time-latest-events-flipp">
-                  10 / NOVEMBER / 2013
+                  2016 / 12 / 12
                 </div>
 
-                <p class="description-tournament">Mauris iaculis porttitor
-                posuere. Praesent id metus massa, ut blandit odio. Proin quis
-                tortor orci. Etiam at risus et justo dignis. Dasmac dracer
-                carades dacer.</p><a class="more-info-flipp" href=
-                "events-single-page.html">more info</a>
+                <p class="description-tournament">富力·悦禧 广马Running camp，当你跑起来的时候，每一声气喘，每一次心跳，每一滴汗水，都在绽放着生命的力量。</p>
+                  <a class="more-info-flipp" href="events-single-page.html">详情</a>
 
                 <ul class="info-latest-events">
                   <li>
                     <img alt="place" src="assets/img/place-icon-2.png" />
 
-                    <p>Vama Veche, Romania</p>
+                    <p>广州, 天河区</p>
                   </li>
 
                   <li>
@@ -1134,54 +993,38 @@
 
         <li class="listFilterItem" style="width: 293px;" data-filter="next week">
           <div class="flipping-albums-events container-flip-caption">
-            <img alt="latest-event" class="img-latest-event" src=
-            "assets/img/300_272.jpg" />
-
+            <img alt="latest-event" class="img-latest-event" src="assets/img/message-sport/huodong5.jpg" />
             <div class="black-sec-tornament">
-              <h1 class="title-latst-h1"><a href=
-              "events-single-page.html">Mamaia beach tornament</a></h1>
-
+              <h1 class="title-latst-h1"><a href="events-single-page.html">咪咕善跑强音酷跑节</a></h1>
               <div class="underline-title-latest-events"></div>
-
               <ul class="info-latest-events">
                 <li>
                   <img alt="place" src="assets/img/place-icon-2.png" />
-
-                  <p>Vama Veche, Romania</p>
+                  <p>广州, 天河区</p>
                 </li>
-
                 <li>
                   <img alt="date" src="assets/img/date-icon.png" />
-
-                  <p>19/12/2013</p>
+                  <p>2016/12/03</p>
                 </li>
               </ul>
             </div>
-
             <div class="back caption">
-              <img alt="latest-event" class="img-latest-event" src=
-              "assets/img/300_272.jpg" />
-
+              <img alt="latest-event" class="img-latest-event" src="assets/img/message-sport/huodong5.jpg" />
               <div class="bg-black-flip">
-                <h1 class="title-flipp">Mamaia beach tornament</h1>
-
+                <h1 class="title-flipp">咪咕善跑强音酷跑节</h1>
                 <div class="under-line-flipp"></div>
-
                 <div class="time-latest-events-flipp">
-                  10 / NOVEMBER / 2013
+                  2016 / 12 / 03
                 </div>
 
-                <p class="description-tournament">Mauris iaculis porttitor
-                posuere. Praesent id metus massa, ut blandit odio. Proin quis
-                tortor orci. Etiam at risus et justo dignis. Dasmac dracer
-                carades dacer.</p><a class="more-info-flipp" href=
-                "events-single-page.html">more info</a>
+                <p class="description-tournament">2016年10月15日-12月3日全国8场强音酷跑节等你来，赶快加入奇瑞的步伐，为梦想，尽情奔跑！</p>
+                  <a class="more-info-flipp" href="events-single-page.html">详情</a>
 
                 <ul class="info-latest-events">
                   <li>
                     <img alt="place" src="assets/img/place-icon-2.png" />
 
-                    <p>Vama Veche, Romania</p>
+                     <p>广州, 天河区</p>
                   </li>
 
                   <li>
@@ -1223,17 +1066,17 @@
                                     <a href="shop-productpage.aspx">
 									<div class="shop-ribbon-sale"></div>
 									    <div class="shop-featured-image">
-										    <img src="assets/img/shop/item1.jpg" alt="" />
+										    <img src="assets/img/shop/sport1.png" alt="" />
 										</div>
 									    <div class="shop-hover">
-										    <img src="assets/img/shop/item1-2.jpg" alt="" />
+										    <img src="assets/img/shop/sport-1.png" alt="" />
 										</div>
 										</a>
 									</div>
 									
 									<div class="shop-content">
-										<h4><a href="shop-productpage.aspx">Woo Ninja</a></h4>
-										<span class="price"><del>£15</del> £12</span>
+										<h4><a href="shop-productpage.aspx">阿迪达斯男鞋AW5063</a></h4>
+										<span class="price">￥369.00</span>
 		<div class="shop-rating read-only" data-score="3" title="regular" style="width: 100px;">
             <img src="assets/img/shop/star-on.png" alt="1" title="regular" />&nbsp;
             <img src="assets/img/shop/star-on.png" alt="2" title="regular" />&nbsp;
@@ -1256,24 +1099,24 @@
 										<a href="shop-productpage.aspx">
 											<div class="shop-ribbon-sale"></div>
 											<div class="shop-featured-image">
-												<img src="assets/img/shop/item1.jpg" alt="" />
+												<img src="assets/img/shop/sport2.png" alt="" />
 											</div>
 											<div class="shop-hover">
-												<img src="assets/img/shop/item1-2.jpg" alt="" />
+												<img src="assets/img/shop/sport-2.png" alt="" />
 											</div>
 										</a>
 									</div>
 									
 									<div class="shop-content">
 										
-										<h4><a href="shop-productpage.aspx">Woo Ninja</a></h4>
-										<span class="price"><del>£15</del> £12</span>
+										<h4><a href="shop-productpage.aspx">尤尼克斯单拍</a></h4>
+										<span class="price">￥99.00</span>
 										
 		<div class="shop-rating read-only" data-score="3" title="regular" style="width: 100px;">
             <img src="assets/img/shop/star-on.png" alt="1" title="regular" />&nbsp;
             <img src="assets/img/shop/star-on.png" alt="2" title="regular" />&nbsp;
             <img src="assets/img/shop/star-on.png" alt="3" title="regular" />&nbsp;
-            <img src="assets/img/shop/star-off.png" alt="4" title="regular" />&nbsp;
+            <img src="assets/img/shop/star-on.png" alt="4" title="regular" />&nbsp;
             <img src="assets/img/shop/star-off.png" alt="5" title="regular" />
             <input name="score" value="3"  type="hidden" /> 
         </div>
@@ -1291,18 +1134,18 @@
 										<a href="shop-productpage.aspx">
 											<div class="shop-ribbon-sale"></div>
 											<div class="shop-featured-image">
-												<img src="assets/img/shop/item1.jpg" alt="" />
+												<img src="assets/img/shop/sport3.png" alt="" />
 											</div>
 											<div class="shop-hover">
-												<img src="assets/img/shop/item1-2.jpg" alt="" />
+												<img src="assets/img/shop/sport-3.png" alt="" />
 											</div>
 										</a>
 									</div>
 									
 									<div class="shop-content">
 										
-										<h4><a href="shop-productpage.aspx">Woo Ninja</a></h4>
-										<span class="price"><del>£15</del> £12</span>
+										<h4><a href="shop-productpage.aspx">New Balance NB 女鞋</a></h4>
+										<span class="price">￥399.00</span>
 										
 		<div class="shop-rating read-only" data-score="3" title="regular" style="width: 100px;">
             <img src="assets/img/shop/star-on.png" alt="1" title="regular" />&nbsp;
@@ -1336,56 +1179,42 @@
     <div class="container_12">
       <ul class="footer-top-itm">
         <li class="grid_3">
-          <a class="logo-footer" href="index.html"><img alt="Clubix Logo" src=
+          <a class="logo-footer" href="index.aspx"><img alt="Clubix Logo" src=
           "assets/img/logo.png" /></a>
 
-          <p class="italic">Lorem ipsum ex vix illud nonummy, novum tation et
-          his. At vix scriptaset patrioque scribentur, at pro fugit erts</p>
+          <p class="italic"></p>
 
-          <p class="italic">Srterem molestiae, sed et vivendo ali Lorem ipsum
-          ex vix illud nonummy, novum tation et his. At vix scripta</p>
+          
         </li>
 
         <li class="grid_3">
-          <h1 class="footer-top-title">Recent Posts</h1>
-
+          <h1 class="footer-top-title">让 约 运 动 更 简 单</h1>
           <ul class="recent-post-footer">
             <li>
-              <a class="template-based-element-color-hover" href=
-              "blog-page-single.html">Voluptas Sadips Ipsums Dolors</a>
+              <a class="template-based-element-color-hover" href="blog-page-single.html">运动热点</a>
+            </li>
+            <li>
+              <a class="template-based-element-color-hover" href="blog-page-single.html-2">商家活动</a>
+            </li>
+            <li>
+              <a class="template-based-element-color-hover" href="blog-page-single.html-3">约记分享</a>
             </li>
 
             <li>
-              <a class="template-based-element-color-hover" href=
-              "blog-page-single.html-2">Fugiats Litora Ultrices Ante</a>
-            </li>
-
-            <li>
-              <a class="template-based-element-color-hover" href=
-              "blog-page-single.html-3">Sapien Litora Dolores Ultrices</a>
-            </li>
-
-            <li>
-              <a class="template-based-element-color-hover" href=
-              "blog-page-single.html-4">Nemis Fugiats Voluptas Dolores</a>
+              <a class="template-based-element-color-hover" href="blog-page-single.html-4">运动装备</a>
             </li>
           </ul>
         </li>
 
         <li class="grid_3">
-          <h1 class="footer-top-title">twitter</h1>
-
-          <ul class="twitter-footer-top">
+         <ul class="recent-post-footer">
             <li>
-              <p class="italic"><span>@ dratio</span> Metus, id placerat justo
-              sagittis id.</p>
+              <a class="template-based-element-color-hover" href="blog-page-single.html">联系我们</a>
             </li>
-
             <li>
-              <p class="italic"><span>@ buris</span> Curabitur ultrices
-              sollicitudin metus, id placerat justo sagittis id... risus auctor
-              congue ac et risus.</p>
+              <a class="template-based-element-color-hover" href="blog-page-single.html-2">帮助中心</a>
             </li>
+            
           </ul>
         </li>
 
