@@ -33,6 +33,7 @@
   <script src="assets/rs-plugin/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
   <link href="assets/rs-plugin/css/settings.css" media="screen" rel="stylesheet" type="text/css" />
   <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+       <link href="css/fontello.css" rel="stylesheet" />
   <script src="assets/js/jquery.nicescroll.min.js"></script>
   <script>
 
@@ -760,11 +761,11 @@
                         <div class="container-information"> 
                             <ul class="linkgrid">
                                 <li><a href="#"><strong>兴趣活动小组</strong><span class="person-info">发现志同道合的圈子</span></a>
-                                   <div class="features-01"> <img alt="make-events" class="container-img" src="assets/img/chat2.png" /></div>
+                                   <div class="features-01 banner">   <i class="icons icon-chat icons-fadeout"></i><i class="icons icon-chat"></i></div>
                                     
                                 </li>
                                 <li><a href="#"><strong>主办方系列活动</strong><span class="person-info">主办方的主题活动</span></a>
-                                    <div class="features-01"> <img alt="make-events" class="container-img" src="assets/img/interface.png" /></div>
+                                    <div class="features-01  banner"> <i class="icons icon-chat-alt icons-fadeout"></i><i class="icons icon-chat-alt"></i></div>
                                 </li>
                             </ul>                                                       
                                            
