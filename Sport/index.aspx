@@ -505,9 +505,9 @@
 
         <li>
           <div class="flipping-albums-events container-flip-caption">
-            <img alt="fabulous" class="img-front-bg" src="assets/img/about-sharing/4.jpg" />
+            <img alt="fabulous" class="img-front-bg" src="assets/img/about-sharing/111.jpg" />
             <div class="caption">
-              <img alt="fabulous" class="img-pink-bg" src="assets/img/about-sharing/4.jpg" />
+              <img alt="fabulous" class="img-pink-bg" src="assets/img/about-sharing/111.jpg" />
               <div class="bg-pink-flip template-based-element-background-color-transparent">
               <h1 class="title-flipp">12月4日穿越云髻山</h1>
                 <div class="under-line-flipp"></div>
@@ -871,11 +871,7 @@
   <!--隔开-->
     <div class="grid_12 container_12 alpha omega">
     <div class="commercial-activity">
-    <h1 class="underline-title">商家 <span>活动</span><!--<a href="#" class="gomore">更多》</a>--></h1>  
-                                <div class="carousel-arrows animate-onscroll">
-									<span class="left-arrow"><i class="icon-left-dir"></i></span>
-									<span class="right-arrow"><i class="icon-right-dir"></i></span>
-								</div>
+    <h1 class="underline-title">商家 <span>活动</span><a href="shop-frontpage.aspx" class="gomore">更多&nbsp;&nbsp;>></a></h1>                                 
     </div>
     <div class="underline-bg">
             <div class="underline template-based-element-background-color">
@@ -1207,7 +1203,7 @@
           </ul>
         </li>
 
-        <li class="grid_3">
+        <li class="grid_3 footer">
          <ul class="recent-post-footer">
             <li>
               <a class="template-based-element-color-hover" href="blog-page-single.html">联系我们</a>
@@ -1220,43 +1216,18 @@
         </li>
 
         <li class="grid_3">
-          <h1 class="footer-top-title">flickr</h1>
+          
 
           <ul class="flickr-list-footer-top">
             <li>
-              <a href="#"><img alt="flickr" src="assets/img/flickr-img.png" /></a>
+             <img alt="flickr" src="assets/img/web.jpg" />
             </li>
-
-            <li>
-              <a href="#"><img alt="flickr" src="assets/img/flickr-img.png" /></a>
-            </li>
-
-            <li>
-              <a href="#"><img alt="flickr" src="assets/img/flickr-img.png" /></a>
-            </li>
-
-            <li>
-              <a href="#"><img alt="flickr" src="assets/img/flickr-img.png" /></a>
+              <li>
+             <img alt="flickr" src="assets/img/web2.jpg" />
             </li>
           </ul>
 
-          <ul class="flickr-list-footer-top">
-            <li>
-              <a href="#"><img alt="flickr" src="assets/img/flickr-img.png" /></a>
-            </li>
-
-            <li>
-              <a href="#"><img alt="flickr" src="assets/img/flickr-img.png" /></a>
-            </li>
-
-            <li>
-              <a href="#"><img alt="flickr" src="assets/img/flickr-img.png" /></a>
-            </li>
-
-            <li>
-              <a href="#"><img alt="flickr" src="assets/img/flickr-img.png" /></a>
-            </li>
-          </ul>
+          
         </li>
       </ul>
     </div>        
