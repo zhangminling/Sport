@@ -1170,8 +1170,12 @@
     
   <div class="container-footer-top template-based-element-border-color">
   <div class="grid_1 omega">
-        <a class="back-to-top template-based-element-background" href=
-        "#"  ><span class="icon-back-to-top"></span></a>
+        <a class="back-to-top template-based-element-background" href="#"  ><span class="icon-back-to-top"></span></a>
+      <div class="toolbar">
+          <a href="###" class="toolbar-item toolbar-item-app">
+    <span class="toolbar-layer"></span></a>
+      </div>
+     
       </div>
     <div class="container_12">
       <ul class="footer-top-itm">
@@ -1232,7 +1236,7 @@
       </ul>
     </div>        
   </div>  
-  
+   
 </body>
 
 </html>

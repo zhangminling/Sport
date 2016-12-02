@@ -527,6 +527,7 @@ h1.underline-title span{color:#444444;}
 .container-footer-top ul.footer-top-itm li.grid_3 ul.flickr-list-footer-top li img{width:100%;}
 .container-footer-top ul.footer-top-itm li.grid_3 ul.flickr-list-footer-top li:last-child{margin-right:0 !important;}
 .container-footer-bottom{background:rgba(51, 204, 153, 0.8);width:100%;height:65px;padding-top:25px; border:3px solid #F00;}
+/*向上*/
 .container-footer-top .grid_1{position:absolute; margin-left:90%; margin-top:10%;}
 .back-to-top{width:36px;height:23px;padding-top:13px;background:#F3232B;display:block;color:#fff;position:fixed;bottom:80px;
 	right:80px;z-index:1000;
@@ -536,6 +537,21 @@ h1.underline-title span{color:#444444;}
 	-moz-transition:background 0.3s, color 0.2s;}
 .back-to-top:hover{background:#BF5357;}
 .back-to-top span.icon-back-to-top{margin:0 auto;width:9px;height:10px;display:block;background:url(../img/back-to-top-btn.png) no-repeat;}
+
+
+
+.toolbar-item,.toolbar-layer{background:url(../img/demobar5.jpg) no-repeat;}
+.toolbar{position:fixed;right:78px;bottom:120px;}
+.toolbar-item{display:block;width:40px;height:48px;margin-top:1px;position:relative;-moz-transition:background-position 1s;-ms-transition:background-position 1s;-o-moz-transition:background-position 1s;-webkit-moz-transition:background-position 1s;transition:background-position 1s;}
+.toolbar-item:hover .toolbar-layer{opacity:1;filter:alpha(opacity=100);transform:scale(1);-webkit-transform:scale(1);-moz-transform:scale(1);-ms-transform:scale(1);-o-transform:scale(1);}
+.toolbar-item-app{background-position:0 -550px;}
+.toolbar-item-app:hover{background-position:0 -612px;}
+.toolbar-item-app .toolbar-layer{height:194px;background-position:0 -222px;}
+.toolbar-layer{position:absolute;right:56px;bottom:-10px;width:172px;opacity:0;filter:alpha(opacity=0);
+transform-origin: 95% 95%;-moz-transform-origin: 95% 95%;-ms-transform-origin: 95% 95%;-o-transform-origin: 95% 95%;-webkit-transform-origin: 95% 95%;transform:scale(0.01);
+-moz-transform:scale(0.01);-ms-transform:scale(0.01);-o-transform:scale(0.01);-webkit-transform:scale(0.01);transition:all 1s;-moz-transition:all 1s;-ms-transition:all 1s;-o-transition:all 1s;-webkit-transition:all 1s;}
+
+
 .container-footer-bottom .social-cr{margin-left:20px !important;}
 .container-footer-bottom .social-cr ul.social-footer-bottom{float:right;margin-bottom:7px;}
 .container-footer-bottom .social-cr ul.social-footer-bottom li{float:left;margin-left:20px;}
