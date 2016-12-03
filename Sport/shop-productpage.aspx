@@ -5,22 +5,17 @@
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-		
+		<div class="clear"></div>
+
+    <div class="container">
+
 		<section id="content">	
-			
-			<!-- Page Heading -->
-			<section class="section page-heading animate-onscroll">
-				
-				<div class="row">
-					<div class="col-lg-9 col-md-9 col-sm-9">
-					
-						<h1>Product Page</h1>
-						<p class="breadcrumb"><a href="main-v1.html">Home</a> / Product Page</p>
-						
-					</div>
-					<div class="col-lg-3 col-md-3 col-sm-3 align-right">
-					
-												<!-- Shopping Cart -->
+            
+        <div class="container-1170 productpage-bar">
+  <div class="page-bar">
+    <h1 class="title-page">运动装备</h1>
+        
+      <!-- Shopping Cart -->
 						<div class="shopping-cart">
 						
 							<div class="cart-button">
@@ -32,11 +27,11 @@
 								<div class="shopping-cart-content">
 									<div class="cart-item">
 										<div class="featured-image">
-											<img src="img/shop/item6.jpg" alt="">
+											<img src="assets/img/shop/sport1.png" alt="" />
 										</div>
 										<div class="item-content">
-											<h6><a href="#">Woo Ninja</a></h6>
-											<span class="price">1 x &pound;20</span>
+											<h6><a href="#">阿迪达斯男鞋AW5063</a></h6>
+											<span class="price">￥369.00</span>
 											<div class="remove-item">
 												<i class="icons remove-shopping-item icon-cancel-circled"></i>
 											</div>
@@ -44,11 +39,11 @@
 									</div>
 									<div class="cart-item">
 										<div class="featured-image">
-											<img src="img/shop/item3.jpg" alt="">
+											<img src="assets/img/shop/sport2.png" alt="" />
 										</div>
 										<div class="item-content">
-											<h6><a href="#">Happy Ninja</a></h6>
-											<span class="price">1 x &pound;35</span>
+											<h6><a href="#">尤尼克斯单拍</a></h6>
+											<span class="price">￥99.00</span>
 											<div class="remove-item">
 												<i class="icons remove-shopping-item icon-cancel-circled"></i>
 											</div>
@@ -56,34 +51,37 @@
 									</div>
 									<div class="cart-item">
 										<div class="featured-image">
-											<img src="img/shop/item5.jpg" alt="">
+											<img src="assets/img/shop/sport3.png" alt="" />
 										</div>
 										<div class="item-content">
-											<h6><a href="#">Woo Album #2</a></h6>
-											<span class="price">1 x &pound;9</span>
+											<h6><a href="#">New Balance NB 女鞋</a></h6>
+											<span class="price">￥399.00</span>
 											<div class="remove-item">
 												<i class="icons remove-shopping-item icon-cancel-circled"></i>
 											</div>
 										</div>
 									</div>
 									<div class="cart-item">
-										<h6>Cart subtotal: &pound;64</h6>
+										<h6>总计:￥867</h6>
 									</div>
 									<div class="cart-item">
-										<a href="#" class="button">View cart</a>
-										<a href="#" class="button donate">Checkout</a>
+										<a href="#" class="button">购物车</a>
+										<a href="#" class="button donate">结&nbsp;算</a>
 									</div>
 								</div>
 								
 							</div>
 							
 						</div>
-						<!-- /Shopping Cart -->						
-					</div>
-				</div>
+						<!-- /Shopping Cart -->	
+  </div>
+</div>																			
+					
+																	
+					
+
 				
-			</section>
-			<!-- Page Heading -->
+		
 			
 
 			
@@ -97,10 +95,10 @@
 						<div class="alert-box alert-box-button info animate-onscroll">
 							<div class="row">
 								<div class="col-lg-9 col-md-9 col-sm-8">
-									<p><strong>"Woo Ninja"</strong> was successfully added to your cart. </p>
+									<p><strong>商品</strong> 已经成功加入购物车. </p>
 								</div>
 								<div class="col-lg-3 col-md-3 col-sm-4 align-right">
-									<a href="shop-cart.html" class="button donate button-arrow">View Cart</a>
+									<a href="shop-cart.html" class="button donate button-arrow">购物车</a>
 								</div>
 							</div>
 						</div>
@@ -512,6 +510,10 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 			<!-- /Section -->
 		
 		</section>
+</div>
+
+
+
     	<!-- Bootstrap -->
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 		

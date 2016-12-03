@@ -541,7 +541,7 @@ h1.underline-title span{color:#444444;}
 
 
 .toolbar-item,.toolbar-layer{background:url(../img/demobar5.jpg) no-repeat;}
-.toolbar{position:fixed;right:78px;bottom:120px;}
+.toolbar{position:fixed;right:78px;bottom:120px;z-index: 10000}
 .toolbar-item{display:block;width:40px;height:48px;margin-top:1px;position:relative;-moz-transition:background-position 1s;-ms-transition:background-position 1s;-o-moz-transition:background-position 1s;-webkit-moz-transition:background-position 1s;transition:background-position 1s;}
 .toolbar-item:hover .toolbar-layer{opacity:1;filter:alpha(opacity=100);transform:scale(1);-webkit-transform:scale(1);-moz-transform:scale(1);-ms-transform:scale(1);-o-transform:scale(1);}
 .toolbar-item-app{background-position:0 -550px;}

@@ -340,6 +340,10 @@ $(document).ready(function() {
   <div class="grid_1 omega">
         <a class="back-to-top template-based-element-background" href=
         "#"  ><span class="icon-back-to-top"></span></a>
+      <div class="toolbar">
+          <a href="###" class="toolbar-item toolbar-item-app">
+    <span class="toolbar-layer"></span></a>
+      </div>
       </div>
     <div class="container_12">
       <ul class="footer-top-itm">
@@ -347,53 +351,39 @@ $(document).ready(function() {
           <a class="logo-footer" href="index.html"><img alt="Clubix Logo" src=
           "assets/img/logo.png" /></a>
 
-          <p class="italic">Lorem ipsum ex vix illud nonummy, novum tation et
-          his. At vix scriptaset patrioque scribentur, at pro fugit erts</p>
+         <p class="italic"></p>
 
-          <p class="italic">Srterem molestiae, sed et vivendo ali Lorem ipsum
-          ex vix illud nonummy, novum tation et his. At vix scripta</p>
+          
         </li>
 
         <li class="grid_3">
-          <h1 class="footer-top-title">Recent Posts</h1>
-
+          <h1 class="footer-top-title">让 约 运 动 更 简 单</h1>
           <ul class="recent-post-footer">
             <li>
-              <a class="template-based-element-color-hover" href=
-              "blog-page-single.html">Voluptas Sadips Ipsums Dolors</a>
+              <a class="template-based-element-color-hover" href="blog-page-single.html">运动热点</a>
+            </li>
+            <li>
+              <a class="template-based-element-color-hover" href="blog-page-single.html-2">商家活动</a>
+            </li>
+            <li>
+              <a class="template-based-element-color-hover" href="blog-page-single.html-3">约记分享</a>
             </li>
 
             <li>
-              <a class="template-based-element-color-hover" href=
-              "blog-page-single.html-2">Fugiats Litora Ultrices Ante</a>
-            </li>
-
-            <li>
-              <a class="template-based-element-color-hover" href=
-              "blog-page-single.html-3">Sapien Litora Dolores Ultrices</a>
-            </li>
-
-            <li>
-              <a class="template-based-element-color-hover" href=
-              "blog-page-single.html-4">Nemis Fugiats Voluptas Dolores</a>
+              <a class="template-based-element-color-hover" href="blog-page-single.html-4">运动装备</a>
             </li>
           </ul>
         </li>
 
-        <li class="grid_3">
-          <h1 class="footer-top-title">twitter</h1>
-
-          <ul class="twitter-footer-top">
+        <li class="grid_3 footer">
+         <ul class="recent-post-footer">
             <li>
-              <p class="italic"><span>@ dratio</span> Metus, id placerat justo
-              sagittis id.</p>
+              <a class="template-based-element-color-hover" href="blog-page-single.html">联系我们</a>
             </li>
-
             <li>
-              <p class="italic"><span>@ buris</span> Curabitur ultrices
-              sollicitudin metus, id placerat justo sagittis id... risus auctor
-              congue ac et risus.</p>
+              <a class="template-based-element-color-hover" href="blog-page-single.html-2">帮助中心</a>
             </li>
+            
           </ul>
         </li>
 
