@@ -135,7 +135,7 @@
       <div class="grid_2 alpha">
         <div class="logo">
           <a href="index.aspx"><img alt="Clubix Logo" src=
-          "assets/img/logo.png" /></a>
+          "assets/img/logo.png" class="headlogo"/></a>
         </div>
       </div>
       <div class="consumer">

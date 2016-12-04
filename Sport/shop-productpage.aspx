@@ -138,28 +138,28 @@
 							<!-- Shop Product Content -->
 							<div class="shop-product-content">
 								
-								<h2 class="animate-onscroll">Woo Ninja</h2>
+								<h2 class="animate-onscroll">阿迪达斯男鞋AW5063</h2>
 								<div class="shop-rating read-only animate-onscroll" data-score="3.5"></div>
 								
-								<span class="price animate-onscroll"><del>£15</del> £12</span>
+								<span class="price animate-onscroll">￥369.00</span>
 								
-								<p class="animate-onscroll">Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat.</p>
+								<p class="animate-onscroll"></p>
 								<ul class="animate-onscroll">
-									<li>Aenean nec eros.</li>
-									<li>Estibulum ante ipsum primis.</li>
-									<li>In faucibus orci luctus.</li>
+									<li>出色的防震功能</li>
+									<li>色彩经典潮流</li>
+									<li>完美舒适感</li>
 								</ul>
 								
 								<div class="animate-onscroll">
 									<input class="numeric-input" type="text" value="1">
 								</div>
 								
-								<a href="#" class="add-to-cart-button button donate animate-onscroll">Add to cart</a>
+								<a href="#" class="add-to-cart-button button donate animate-onscroll">加入购物车</a>
 								
-								<p class="animate-onscroll">Categories: <a href="#">Album</a>, <a href="#">Music</a></p>
+								
 								
 								<ul class="social-share animate-onscroll">	
-									<li>Share this:</li>
+									<li>分享到:</li>
 									<li class="facebook"><a href="#" class="tooltip-ontop" title="Facebook"><i class="icons icon-facebook"></i></a></li>
 									<li class="twitter"><a href="#" class="tooltip-ontop" title="Twitter"><i class="icons icon-twitter"></i></a></li>
 									<li class="google"><a href="#" class="tooltip-ontop" title="Google Plus"><i class="icons icon-gplus"></i></a></li>
@@ -180,16 +180,28 @@
 							
 							<div class="tab-header">
 								<ul>
-									<li><a href="#tab1"><h6>Description</h6></a></li>
-									<li><a href="#tab2"><h6>Reviews</h6></a></li>
+									<li><a href="#tab1"><h6>商品介绍</h6></a></li>
+									<li><a href="#tab2"><h6>商品评价</h6></a></li>
 								</ul>
 							</div>
 							
 							<div class="tab-content">
 								
 								<div id="tab1" class="tab">
-									<p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit mauris fermentum dictum magna. Sed laoreet aliquam leo. <br><br>
-Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Vestibulum libero nisl, porta vel, scelerisque eget, malesuada at, neque. </p>
+									<p>商品名称：Adidas阿迪达斯AW5063
+                                       <br />商品编号：10537098060
+                                       <br />店铺： 阿迪达斯官方商城
+                                       <br />商品毛重：500.00g
+                                       <br />货号：M20324
+                                       <br />尺码：41
+                                       <br />上市时间：2016夏季
+                                       <br />鞋底材质：防滑橡胶
+                                       <br />适用人群：男士
+                                       <br />款式：中帮
+                                       <br />功能科技：耐磨，减震
+                                       <br />选购热点：经典款
+                                       <br />闭合方式：系带
+                                     </p>
 								</div>
 								
 								<div id="tab2" class="tab">
@@ -198,27 +210,27 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 									<ul class="product-reviews">
 										
 										<li>
-											<img src="img/testimonials/profile1.jpg" alt="">
+											<img src="assets/img/shop/yonghu.png" alt="" />
 											<div class="shop-rating read-only animate-onscroll" data-score="4.5"></div>
-											<h5>Gloria Mann</h5>
-											<span class="date">December 12, 2013</span>
-											<p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat.</p>
+											<h5>天天凌爱</h5>
+											<span class="date">2016 / 12 / 6</span>
+											<p>穿着舒服，值得购买，而且穿起来挺帅的.穿着运动也很好保护脚</p>
 										</li>
 										
 										<li>
-											<img src="img/testimonials/profile2.jpg" alt="">
+											<img src="assets/img/shop/yonghu2.png" alt="" />
 											<div class="shop-rating read-only animate-onscroll" data-score="5"></div>
-											<h5>Alan Smith</h5>
-											<span class="date">January 21, 2013</span>
-											<p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Vestibulum libero nisl.</p>
+											<h5>yc-霸</h5>
+											<span class="date">2016 / 12 / 3</span>
+											<p>首先女朋友叫我买的，性价比挺高的，质量也不错.</p>
 										</li>
 										
 										<li>
-											<img src="img/testimonials/profile3.jpg" alt="">
+											<img src="assets/img/shop/yonghu3.png" alt="" />
 											<div class="shop-rating read-only animate-onscroll" data-score="3"></div>
-											<h5>Camala Haddon</h5>
-											<span class="date">April 11, 2013</span>
-											<p>Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auctor wisi et urna. Aliquam erat volutpat.</p>
+											<h5>美哒哒</h5>
+											<span class="date">2016 / 12 / 3</span>
+											<p>感觉还好，主要还是跑起步来没那么吃力，特别是长跑.</p>
 										</li>
 										
 									</ul>
@@ -226,25 +238,16 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 									
 									<form class="submit-review">
 										
-										<h4>Add a Review</h4>
 										
-										<div class="inline-inputs">
-											<div class="col-lg-6 col-md-6 col-sm-6">
-												<label>Name*</label>
-												<input type="text">
-											</div>
-											<div class="col-lg-6 col-md-6 col-sm-6">
-												<label>Email*</label>
-												<input type="text">
-											</div>
-										</div>
 										
-										<label>Your rating*</label>
+										
+										
+										<label>评价*</label>
 										<div class="shop-rating rate-only animate-onscroll" data-score="0"></div>
 										
-										<label>Your review*</label>
+										<label>内容*</label>
 										<textarea rows="8"></textarea>
-										<input type="submit" value="Submit">
+										<input type="submit" value="评论">
 										
 									</form>
 									
@@ -261,7 +264,7 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 						<div class="row related-products">
 							
 							<div class="col-lg-12 col-md-12 col-sm-12 animate-onscroll">
-								<h3>Related Products</h3>
+								<h3>相关产品 </h3>
 							</div>
 							
 							<div class="col-lg-4 col-md-4 col-sm-6">
@@ -282,13 +285,13 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 									
 									<div class="shop-content">
 										
-										<h4><a href="shop-productpage.html">Woo Ninja</a></h4>
-										<span class="price">£35</span>
+										<h4><a href="shop-productpage.html">New Balance（NB）WL574BCC</a></h4>
+										<span class="price">￥479.00</span>
 										
 										<div class="shop-rating read-only" data-score="0"></div>
 										
-										<a href="#" class="button add-to-cart-button transparent">Add to cart</a>
-										<a href="shop-productpage.html" class="button details-button button-arrow transparent">Details</a>
+										<a href="#" class="button add-to-cart-button transparent">加入购物车</a>
+										<a href="shop-productpage.html" class="button details-button button-arrow transparent">详细内容</a>
 										
 									</div>
 									
@@ -314,18 +317,18 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 										</a>
 									</div>
 									
+									
 									<div class="shop-content">
 										
-										<h4><a href="shop-productpage.html">Woo Logo</a></h4>
-										<span class="price">£15</span>
+										<h4><a href="shop-productpage.html">New Balance（NB）WL574BCC</a></h4>
+										<span class="price">￥479.00</span>
 										
-										<div class="shop-rating read-only" data-score="4"></div>
+										<div class="shop-rating read-only" data-score="0"></div>
 										
-										<a href="#" class="button add-to-cart-button transparent">Add to cart</a>
-										<a href="shop-productpage.html" class="button details-button button-arrow transparent">Details</a>
+										<a href="#" class="button add-to-cart-button transparent">加入购物车</a>
+										<a href="shop-productpage.html" class="button details-button button-arrow transparent">详细内容</a>
 										
 									</div>
-									
 								</div>
 								<!-- /Shop Item -->
 							
@@ -349,18 +352,18 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 										</a>
 									</div>
 									
+									
 									<div class="shop-content">
 										
-										<h4><a href="shop-productpage.html">Woo Album #4</a></h4>
-										<span class="price">£9</span>
+										<h4><a href="shop-productpage.html">New Balance（NB）WL574BCC</a></h4>
+										<span class="price">￥479.00</span>
 										
-										<div class="shop-rating read-only" data-score="4"></div>
+										<div class="shop-rating read-only" data-score="0"></div>
 										
-										<a href="#" class="button add-to-cart-button transparent">Add to cart</a>
-										<a href="shop-productpage.html" class="button details-button button-arrow transparent">Details</a>
+										<a href="#" class="button add-to-cart-button transparent">加入购物车</a>
+										<a href="shop-productpage.html" class="button details-button button-arrow transparent">详细内容</a>
 										
 									</div>
-									
 								</div>
 								<!-- /Shop Item -->
 							
@@ -382,7 +385,7 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 												<!-- Top Rated Products -->
 						<div class="sidebar-box white animate-onscroll">
 							
-							<h3>Top rated products</h3>
+							<h3>看了又看</h3>
 							
 							<ul class="shop-items-widget">
 								
@@ -391,8 +394,8 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 										<img src="img/shop/item3.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Album #1</a></h6>
-										<span class="price">£9</span>
+										<h6><a href="shop-productpage.html">UMBRO2016新款男装运动服/a></h6>
+										<span class="price">￥235.00</span>
 										<div class="shop-rating read-only-small" data-score="5"></div>
 									</div>
 								</li>
@@ -402,8 +405,8 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 										<img src="img/shop/item6.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Ninja</a></h6>
-										<span class="price">£20</span>
+										<h6><a href="shop-productpage.html">ASICS亚瑟士新款男路跑鞋男 </a></h6>
+										<span class="price">￥735.00</span>
 										<div class="shop-rating read-only-small" data-score="4.5"></div>
 									</div>
 								</li>
@@ -413,73 +416,20 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 										<img src="img/shop/item7.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Logo</a></h6>
-										<span class="price">£15</span>
+										<h6><a href="shop-productpage.html">斯伯丁Spalding 74-632Y篮球</a></h6>
+										<span class="price">￥135.00</span>
 										<div class="shop-rating read-only-small" data-score="5"></div>
 									</div>
 								</li>
 								
-							</ul>
-							
-						</div>
-						<!-- /Top Rated Products -->						<!-- Categories -->
-						<div class="sidebar-box category-box white animate-onscroll">
-							
-							<h3>Product Categories</h3>
-							<ul>
-								<li><a href="#">Clothing</a></li>
-								<li><a href="#">Music</a></li>
-								<li><a href="#">Posters</a></li>
-								<li><a href="#">T-shirts</a></li>
-							</ul>
-							
-						</div>
-						<!-- /Categories -->						<!-- Tags -->
-						<div class="sidebar-box white animate-onscroll">
-							
-							<h3>Tags</h3>
-							<a href="#" class="tag">interviews</a>
-							<a href="#" class="tag">design</a>
-							<a href="#" class="tag">development</a>
-							<a href="#" class="tag">marketing</a>
-							<a href="#" class="tag">press</a>
-							<a href="#" class="tag">projects</a>
-							<a href="#" class="tag">resources</a>
-							<a href="#" class="tag">tips</a>
-							<a href="#" class="tag">tricks</a>
-							<a href="#" class="tag">web</a>
-							
-						</div>
-						<!-- /Tags -->						<!-- Instagram Photos -->
-						<div class="sidebar-box white flickr-photos animate-onscroll">
-							<h3>Instagram Photos</h3>
-							<ul id="instagram-feed">
-							</ul>
-						</div>
-						<!-- /Instagram Photos -->						<!-- Top Rated Products -->
-						<div class="sidebar-box white animate-onscroll">
-							
-							<h3>Featured products</h3>
-							
-							<ul class="shop-items-widget">
-								
-								<li>
-									<div class="featured-image">
-										<img src="img/shop/item4.jpg" alt="">
-									</div>
-									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Album #1</a></h6>
-										<span class="price">£9</span>
-									</div>
-								</li>
-								
-								<li>
+                                <li>
 									<div class="featured-image">
 										<img src="img/shop/item6.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Ninja</a></h6>
-										<span class="price">£20</span>
+										<h6><a href="shop-productpage.html">ASICS亚瑟士新款男路跑鞋男 </a></h6>
+										<span class="price">￥735.00</span>
+										<div class="shop-rating read-only-small" data-score="4.5"></div>
 									</div>
 								</li>
 								
@@ -488,16 +438,43 @@ Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit. Aenean auct
 										<img src="img/shop/item7.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Logo</a></h6>
-										<span class="price">£15</span>
+										<h6><a href="shop-productpage.html">斯伯丁Spalding 74-632Y篮球</a></h6>
+										<span class="price">￥135.00</span>
+										<div class="shop-rating read-only-small" data-score="5"></div>
 									</div>
 								</li>
-								
 							</ul>
 							
 						</div>
-						<!-- /Top Rated Products -->						
-						
+						<!-- /Top Rated Products -->						<!-- Categories -->
+						<div class="sidebar-box category-box white animate-onscroll">
+							
+							<h3>商品分类：</h3>
+							<ul>
+								<li><a href="#">衣服</a></li>
+								<li><a href="#">鞋</a></li>
+								<li><a href="#">球类</a></li>
+								<li><a href="#">其他</a></li>
+							</ul>
+							
+						</div>
+						<!-- /Categories -->						<!-- Tags -->
+						<div class="sidebar-box white animate-onscroll">
+							
+							<h3>标签</h3>
+							<a href="#" class="tag">潮流</a>
+							<a href="#" class="tag">设计</a>
+							<a href="#" class="tag">鲜明</a>
+							<a href="#" class="tag">经典</a>
+							<a href="#" class="tag">舒服</a>
+							<a href="#" class="tag">耐穿</a>
+							<a href="#" class="tag">前卫</a>
+							<a href="#" class="tag">怀旧</a>
+							<a href="#" class="tag">成熟</a>
+							<a href="#" class="tag">青春</a>
+							
+						</div>
+						<!-- /Tags -->					
 					</div>
 					<!-- /Sidebar -->
 					

@@ -3485,10 +3485,11 @@ a.button.details-button:hover:after{
 .shop-product-content h2{
 	color:#4174c5;
 	margin:0 0 -5px;
+    font-size:22px;
 }
 
 .shop-product-content .price{
-	font-size:18px;
+	font-size:15px;
 	display:block;
 	margin:-15px 0 15px;
 }
@@ -3498,13 +3499,13 @@ a.button.details-button:hover:after{
 }
 
 .shop-product-content ul{
-	padding:0;
+	padding:10px;
 	margin:20px 0;
 	list-style-position:inside;
 }
 
 .shop-product-content ul li{
-	margin:10px 0;
+	margin:20px 0;
 }
 
 .shop-product-content a.add-to-cart-button{
@@ -3541,6 +3542,7 @@ a.button.details-button:hover:after{
 	list-style:none;
 	margin:0;
 	padding:0;
+    margin-bottom:50px;
 }
 
 .product-reviews li{
@@ -3599,6 +3601,7 @@ a.button.details-button:hover:after{
 .related-products h3{
 	margin-bottom:23px;
 	margin-top:26px;
+    font-size:22px;
 }
 
 .related-products .shop-item{
@@ -5808,6 +5811,8 @@ blockquote.link-quote:after{
 
 .alert-box.alert-box-button p{
 	margin-top:7px;
+    color:#AC4147;
+    font-size:15px;
 }
 
 .alert-box .icons{

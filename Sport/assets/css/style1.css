@@ -1,6 +1,9 @@
 ﻿ /* CSS crunched with Crunch - http://crunchapp.net/ */
 @import "css/reset1.css";
 @import "css/960.css";
+@import "css/newadaptive.css";
+
+
 
 body{background:url(../img/bgimg.jpg) repeat; }
 .bg-header{background:rgba(100%, 59%, 25%, 1);height:93px;line-height:93px;position:relative;z-index:9999;}
@@ -161,9 +164,9 @@ transform-origin: 95% 95%;-moz-transform-origin: 95% 95%;-ms-transform-origin: 9
 .container-footer-bottom .social-cr .cr-section{text-align:right;float:right;}
 .container-footer-bottom .social-cr .cr-section p,.container-footer-bottom .social-cr .cr-section a{font-size:12px;color:#bebcbb;line-height:12px;}.container-footer-bottom .social-cr .cr-section p span.sep-cr,.container-footer-bottom .social-cr .cr-section a span.sep-cr{margin:0 6px;}
 .container-footer-bottom .social-cr .cr-section a:hover{color:#cf5dff;}
-.phone-menu{display:none;float:left;width:280px;position:relative;z-index:99;margin:10px 0;}.phone-menu li a{background:rgba(189, 47, 47, 0.6);display:block;padding:10px;color:#FFFFFF;font-size:12px;cursor:pointer;width:260px;}.phone-menu li a span{width:20px !important;height:16px !important;float:right;position:relative;z-index:5;background:url(../img/menu-icon.png) no-repeat;}
+.phone-menu{display:none;float:left;width:280px;position:relative;z-index:99;margin:10px 0;}.phone-menu li a{background:rgba(189, 47, 47, 0.6);display:block;padding:10px;color:#FFFFFF;font-size:12px;cursor:pointer; width:260px;}.phone-menu li a span{width:20px !important;height:16px !important;float:right;position:relative;z-index:5;background:url(../img/menu-icon.png) no-repeat;}
 .phone-menu li ul{display:none;position:absolute;}.phone-menu li ul li a{background:rgba(189, 47, 47, 0.9);-webkit-transition:all 0.2s linear;-moz-transition:all 0.2s linear;-o-transition:all 0.2s linear;-ms-transition:all 0.2s linear;transition:all 0.2s linear;}.phone-menu li ul li a:hover{background:rgba(100%, 59%, 25%, 1);}
-.phone-menu li ul li ul{position:relative;}.phone-menu li ul li ul li a{padding-left:30px;width:240px;}
+.phone-menu li ul li ul{position:relative;}.phone-menu li ul li ul li a{padding-left:30px;}
 /*二级菜单头部*/
 .bg-page-bar{background:rgba(14,14,14,0.2);padding:10px;height:30px;line-height:30px;margin-top:30px;}
 .bg-page-bar.page-bar-single-pages{width:980px;}
