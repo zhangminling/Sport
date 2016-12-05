@@ -3,21 +3,15 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+
+    <div class="container">
+
     <section id="content">	
-			
-			<!-- Page Heading -->
-			<section class="section page-heading animate-onscroll">
-				
-				<div class="row">
-					<div class="col-lg-9 col-md-9 col-sm-9">
-					
-						<h1>Shop Front Page</h1>
-						<p class="breadcrumb"><a href="main-v1.html">Home</a> / Shop Front Page</p>
-						
-					</div>
-					<div class="col-lg-3 col-md-3 col-sm-3 align-right">
-					
-												<!-- Shopping Cart -->
+			<div class="container-1170 productpage-bar">
+  <div class="page-bar">
+    <h1 class="title-page">商城</h1>
+        
+      <!-- Shopping Cart -->
 						<div class="shopping-cart">
 						
 							<div class="cart-button">
@@ -29,11 +23,11 @@
 								<div class="shopping-cart-content">
 									<div class="cart-item">
 										<div class="featured-image">
-											<img src="img/shop/item6.jpg" alt="">
+											<img src="assets/img/shop/sport1.png" alt="" />
 										</div>
 										<div class="item-content">
-											<h6><a href="#">Woo Ninja</a></h6>
-											<span class="price">1 x &pound;20</span>
+											<h6><a href="#">阿迪达斯男鞋AW5063</a></h6>
+											<span class="price">￥369.00</span>
 											<div class="remove-item">
 												<i class="icons remove-shopping-item icon-cancel-circled"></i>
 											</div>
@@ -41,11 +35,11 @@
 									</div>
 									<div class="cart-item">
 										<div class="featured-image">
-											<img src="img/shop/item3.jpg" alt="">
+											<img src="assets/img/shop/sport2.png" alt="" />
 										</div>
 										<div class="item-content">
-											<h6><a href="#">Happy Ninja</a></h6>
-											<span class="price">1 x &pound;35</span>
+											<h6><a href="#">尤尼克斯单拍</a></h6>
+											<span class="price">￥99.00</span>
 											<div class="remove-item">
 												<i class="icons remove-shopping-item icon-cancel-circled"></i>
 											</div>
@@ -53,34 +47,31 @@
 									</div>
 									<div class="cart-item">
 										<div class="featured-image">
-											<img src="img/shop/item5.jpg" alt="">
+											<img src="assets/img/shop/sport3.png" alt="" />
 										</div>
 										<div class="item-content">
-											<h6><a href="#">Woo Album #2</a></h6>
-											<span class="price">1 x &pound;9</span>
+											<h6><a href="#">New Balance NB 女鞋</a></h6>
+											<span class="price">￥399.00</span>
 											<div class="remove-item">
 												<i class="icons remove-shopping-item icon-cancel-circled"></i>
 											</div>
 										</div>
 									</div>
 									<div class="cart-item">
-										<h6>Cart subtotal: &pound;64</h6>
+										<h6>总计:￥867</h6>
 									</div>
 									<div class="cart-item">
-										<a href="#" class="button">View cart</a>
-										<a href="#" class="button donate">Checkout</a>
+										<a href="#" class="button">购物车</a>
+										<a href="#" class="button donate">结&nbsp;算</a>
 									</div>
 								</div>
 								
 							</div>
 							
 						</div>
-						<!-- /Shopping Cart -->						
-					</div>
-				</div>
-				
-			</section>
-			<!-- Page Heading -->
+						<!-- /Shopping Cart -->	
+  </div>
+</div>
 			
 
 			
@@ -91,28 +82,7 @@
 				
 					<div class="col-lg-9 col-md-9 col-sm-8">
 						
-						<div class="shop-header animate-onscroll">
 						
-							<span class="results">Showing 1-9 out of 32 results</span>
-							
-							<div class="filter-filtering">
-							
-								<ul class="filter-dropdown">
-									<li><span>Default Sorting</span>
-										<ul>
-											<li class="sort" data-sort="dateorder:asc">Default Sorting</li>
-											<li class="sort" data-sort="popularorder:asc">Sort by popularity</li>
-											<li class="sort" data-sort="avgratingorder:asc">Sort by average rating</li>
-											<li class="sort" data-sort="dateorder:asc">Sort by newness</li>
-											<li class="sort" data-sort="priceorder:asc">Sorty by price: low to high</li>
-											<li class="sort" data-sort="priceorder:desc">Sort by price: high to low</li>
-										</ul>
-									</li>
-								</ul>
-							
-							</div>
-							
-						</div>
 						
 						<div class="row shop-items">
 							
@@ -458,7 +428,7 @@
 												<!-- Top Rated Products -->
 						<div class="sidebar-box white animate-onscroll">
 							
-							<h3>Top rated products</h3>
+							<h3>看了又看</h3>
 							
 							<ul class="shop-items-widget">
 								
@@ -467,8 +437,8 @@
 										<img src="img/shop/item3.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Album #1</a></h6>
-										<span class="price">£9</span>
+										<h6><a href="shop-productpage.html">UMBRO2016新款男装运动服/a></h6>
+										<span class="price">￥235.00</span>
 										<div class="shop-rating read-only-small" data-score="5"></div>
 									</div>
 								</li>
@@ -478,8 +448,8 @@
 										<img src="img/shop/item6.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Ninja</a></h6>
-										<span class="price">£20</span>
+										<h6><a href="shop-productpage.html">ASICS亚瑟士新款男路跑鞋男 </a></h6>
+										<span class="price">￥735.00</span>
 										<div class="shop-rating read-only-small" data-score="4.5"></div>
 									</div>
 								</li>
@@ -489,73 +459,20 @@
 										<img src="img/shop/item7.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Logo</a></h6>
-										<span class="price">£15</span>
+										<h6><a href="shop-productpage.html">斯伯丁Spalding 74-632Y篮球</a></h6>
+										<span class="price">￥135.00</span>
 										<div class="shop-rating read-only-small" data-score="5"></div>
 									</div>
 								</li>
 								
-							</ul>
-							
-						</div>
-						<!-- /Top Rated Products -->						<!-- Categories -->
-						<div class="sidebar-box category-box white animate-onscroll">
-							
-							<h3>Product Categories</h3>
-							<ul>
-								<li><a href="#">Clothing</a></li>
-								<li><a href="#">Music</a></li>
-								<li><a href="#">Posters</a></li>
-								<li><a href="#">T-shirts</a></li>
-							</ul>
-							
-						</div>
-						<!-- /Categories -->						<!-- Tags -->
-						<div class="sidebar-box white animate-onscroll">
-							
-							<h3>Tags</h3>
-							<a href="#" class="tag">interviews</a>
-							<a href="#" class="tag">design</a>
-							<a href="#" class="tag">development</a>
-							<a href="#" class="tag">marketing</a>
-							<a href="#" class="tag">press</a>
-							<a href="#" class="tag">projects</a>
-							<a href="#" class="tag">resources</a>
-							<a href="#" class="tag">tips</a>
-							<a href="#" class="tag">tricks</a>
-							<a href="#" class="tag">web</a>
-							
-						</div>
-						<!-- /Tags -->						<!-- Instagram Photos -->
-						<div class="sidebar-box white flickr-photos animate-onscroll">
-							<h3>Instagram Photos</h3>
-							<ul id="instagram-feed">
-							</ul>
-						</div>
-						<!-- /Instagram Photos -->						<!-- Top Rated Products -->
-						<div class="sidebar-box white animate-onscroll">
-							
-							<h3>Featured products</h3>
-							
-							<ul class="shop-items-widget">
-								
-								<li>
-									<div class="featured-image">
-										<img src="img/shop/item4.jpg" alt="">
-									</div>
-									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Album #1</a></h6>
-										<span class="price">£9</span>
-									</div>
-								</li>
-								
-								<li>
+                                <li>
 									<div class="featured-image">
 										<img src="img/shop/item6.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Ninja</a></h6>
-										<span class="price">£20</span>
+										<h6><a href="shop-productpage.html">ASICS亚瑟士新款男路跑鞋男 </a></h6>
+										<span class="price">￥735.00</span>
+										<div class="shop-rating read-only-small" data-score="4.5"></div>
 									</div>
 								</li>
 								
@@ -564,17 +481,45 @@
 										<img src="img/shop/item7.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Logo</a></h6>
-										<span class="price">£15</span>
+										<h6><a href="shop-productpage.html">斯伯丁Spalding 74-632Y篮球</a></h6>
+										<span class="price">￥135.00</span>
+										<div class="shop-rating read-only-small" data-score="5"></div>
 									</div>
 								</li>
-								
 							</ul>
 							
 						</div>
-						<!-- /Top Rated Products -->						
-						
+						<!-- /Top Rated Products -->						<!-- Categories -->
+						<div class="sidebar-box category-box white animate-onscroll">
+							
+							<h3>商品分类：</h3>
+							<ul>
+								<li><a href="#">衣服</a></li>
+								<li><a href="#">鞋</a></li>
+								<li><a href="#">球类</a></li>
+								<li><a href="#">其他</a></li>
+							</ul>
+							
+						</div>
+						<!-- /Categories -->						<!-- Tags -->
+						<div class="sidebar-box white animate-onscroll">
+							
+							<h3>标签</h3>
+							<a href="#" class="tag">潮流</a>
+							<a href="#" class="tag">设计</a>
+							<a href="#" class="tag">鲜明</a>
+							<a href="#" class="tag">经典</a>
+							<a href="#" class="tag">舒服</a>
+							<a href="#" class="tag">耐穿</a>
+							<a href="#" class="tag">前卫</a>
+							<a href="#" class="tag">怀旧</a>
+							<a href="#" class="tag">成熟</a>
+							<a href="#" class="tag">青春</a>
+							
+						</div>
+						<!-- /Tags -->					
 					</div>
+					
 					<!-- /Sidebar -->
 					
 					
@@ -586,5 +531,6 @@
 			<!-- /Section -->
 		
 		</section>
+    </div>
 </asp:Content>
 

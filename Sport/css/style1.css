@@ -2,6 +2,8 @@
 .productpage-bar {background:rgba(14,14,14,0.2);margin-top:30px;}
 .shop-cart-bar {background:rgba(14,14,14,0.2);margin-top:30px;height:48px;}
 
+
+
 #content {background:url(../img/body-background.jpg) repeat;}
 #Entry 
 {    
@@ -3516,7 +3518,7 @@ a.button.details-button:hover:after{
 	margin:20px 0;
 	text-transform:uppercase!important;
 	font-size:13px;
-	padding:10px 20px;
+	padding:9px 9px;
 }
 
 .shop-product-content a.add-to-cart-button:after{
@@ -5181,7 +5183,7 @@ button{
 	color:#274472;
 	text-transform:uppercase;
 	display:inline-block;
-	padding:6px 20px;
+	padding:7px 15px;
 	font-size:13px;
 	border-radius:3px;
 	-webkit-border-radius:3px;
@@ -5209,8 +5211,12 @@ a.button.medium{
 	height:39px;
 }
 
-a.button.donate,
-button.donate{
+
+.add-to-cart-button{	
+    height:35px !important;
+    width:105px !important;
+}
+a.button.donate{
 	background:#a82512;
 	border-top-color:#be2e17;
 	border-bottom-color:#911f0f;
@@ -5219,7 +5225,6 @@ button.donate{
     height:35px;
     width:85px;
 }
-
 a.button.donate.button-arrow:after,
 button.donate.button-arrow:after{
 	color:#d6aaa7;
@@ -5516,6 +5521,7 @@ button.active-button:after{
 	border-radius:3px;
 	-webkit-border-radius:3px;
 	-moz-border-radius:3px;
+  
 }
 
 .tab:before,
