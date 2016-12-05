@@ -141,7 +141,7 @@
       <div class="consumer">
       <ul>
     <li class="register-message">
-          <a href="#" class="register">用户登录</a><span> |</span>
+          <a href="#" class="register">用户登录</a><span style="color: red;"> |</span>
           <a href="#" class="message">用户注册</a>            
       </li>
       </ul>

@@ -1,5 +1,7 @@
 /*新前台母版样式*/
 .productpage-bar {background:rgba(14,14,14,0.2);margin-top:30px;}
+.shop-cart-bar {background:rgba(14,14,14,0.2);margin-top:30px;height:48px;}
+
 #content {background:url(../img/body-background.jpg) repeat;}
 #Entry 
 {    

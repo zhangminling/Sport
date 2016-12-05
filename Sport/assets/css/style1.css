@@ -15,7 +15,8 @@ body{background:url(../img/bgimg.jpg) repeat; }
 .bg-header-menu ul.menu li{float:left;}
 .bg-header-menu ul.menu li a{line-height:40px;display:block;color:#fff;padding:0 15px;font-size:12px;border-right:1px solid rgba(255, 255, 255, 0.1);font-weight:bold;-webkit-transition:all 0.2s linear;-moz-transition:all 0.2s linear;-o-transition:all 0.2s linear;-ms-transition:all 0.2s linear;transition:all 0.2s linear; font-weight:bold;}
 .bg-header .consumer{ height:90px; line-height:90px;}
-
+/*Register*/
+.register-message span{color:red;}
 .register-message a.register,.register-message a.message{color:#fff;font-size:12px;font-weight:bold;}
 .register-message a.register:hover,.register-message a.message:hover{color:#FFFFFF; text-decoration:underline;}
 .bg-header-menu ul.menu li a:hover,.bg-header-menu ul.menu li a.selected{color:#fff;background:rgba(100%, 59%, 25%, 1);-webkit-box-shadow: 0 2px 0 #8e44ad;-moz-box-shadow: 0 2px 0 #8e44ad;-o-box-shadow: 0 2px 0 #8e44ad;box-shadow: 0 2px 0 #FFFF05;}

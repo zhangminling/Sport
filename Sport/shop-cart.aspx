@@ -3,87 +3,14 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    <section id="content">	
-			
-			<!-- Page Heading -->
-			<section class="section page-heading animate-onscroll">
-				
-				<div class="row">
-					<div class="col-lg-9 col-md-9 col-sm-9">
-					
-						<h1>Shopping Cart</h1>
-						<p class="breadcrumb"><a href="main-v1.html">Home</a> / Shopping Cart</p>
-						
-					</div>
-					<div class="col-lg-3 col-md-3 col-sm-3 align-right">
-					
-												<!-- Shopping Cart -->
-						<div class="shopping-cart">
-						
-							<div class="cart-button">
-								<i class="icons icon-basket"></i>
-							</div>
-							
-							<div class="shopping-cart-dropdown">
-							
-								<div class="shopping-cart-content">
-									<div class="cart-item">
-										<div class="featured-image">
-											<img src="img/shop/item6.jpg" alt="">
-										</div>
-										<div class="item-content">
-											<h6><a href="#">Woo Ninja</a></h6>
-											<span class="price">1 x &pound;20</span>
-											<div class="remove-item">
-												<i class="icons remove-shopping-item icon-cancel-circled"></i>
-											</div>
-										</div>
-									</div>
-									<div class="cart-item">
-										<div class="featured-image">
-											<img src="img/shop/item3.jpg" alt="">
-										</div>
-										<div class="item-content">
-											<h6><a href="#">Happy Ninja</a></h6>
-											<span class="price">1 x &pound;35</span>
-											<div class="remove-item">
-												<i class="icons remove-shopping-item icon-cancel-circled"></i>
-											</div>
-										</div>
-									</div>
-									<div class="cart-item">
-										<div class="featured-image">
-											<img src="img/shop/item5.jpg" alt="">
-										</div>
-										<div class="item-content">
-											<h6><a href="#">Woo Album #2</a></h6>
-											<span class="price">1 x &pound;9</span>
-											<div class="remove-item">
-												<i class="icons remove-shopping-item icon-cancel-circled"></i>
-											</div>
-										</div>
-									</div>
-									<div class="cart-item">
-										<h6>Cart subtotal: &pound;64</h6>
-									</div>
-									<div class="cart-item">
-										<a href="#" class="button">View cart</a>
-										<a href="#" class="button donate">Checkout</a>
-									</div>
-								</div>
-								
-							</div>
-							
-						</div>
-						<!-- /Shopping Cart -->						
-					</div>
+    <!-- Page Heading -->
+    <div class="shop-cart-bar container">										
+						<h1>购物车</h1>
+																						
 				</div>
-				
-			</section>
-			<!-- Page Heading -->
-			
-
-			
+    <!-- Page Heading -->
+    <div class="container">
+    <section id="content">																																		
 			<!-- Section -->
 			<section class="section full-width-bg gray-bg">
 				
@@ -94,11 +21,11 @@
 						<table class="shopping-cart-table animate-onscroll">
 							
 							<tr>
-								<th>Product</th>
-								<th>Price</th>
-								<th>Quantity</th>
-								<th>Total</th>
-								<th></th>
+								<th>商品</th>
+								<th>单价</th>
+								<th>数量</th>
+								<th>金额</th>
+								<th>操作</th>
 							</tr>
 							
 							<tr>
@@ -106,11 +33,11 @@
 									<div class="product-thumbnail">
 										<img src="img/shop/item6.jpg" alt="">
 									</div>
-									<h6><a href="#">Woo Ninja</a></h6>
+									<h6><a href="#">阿迪达斯男鞋AW5063</a></h6>
 								</td>
-								<td class="price">&pound;20</td>
+								<td class="price">￥369.00</td>
 								<td><input class="numeric-input" type="text" value="1">
-								<td class="price"><strong>&pound;20</strong></td>
+								<td class="price"><strong>￥369.00</strong></td>
 								<td><i class="icons remove-shopping-item icon-cancel-circled"></i></td>
 							</tr>
 							
@@ -119,11 +46,11 @@
 									<div class="product-thumbnail">
 										<img src="img/shop/item3.jpg" alt="">
 									</div>
-									<h6><a href="#">Happy Ninja</a></h6>
+									<h6><a href="#">尤尼克斯单拍</a></h6>
 								</td>
-								<td class="price">&pound;35</td>
+								<td class="price">￥99.00</td>
 								<td><input class="numeric-input" type="text" value="1">
-								<td class="price"><strong>&pound;35</strong></td>
+								<td class="price"><strong>￥99.00</strong></td>
 								<td><i class="icons remove-shopping-item icon-cancel-circled"></i></td>
 							</tr>
 							
@@ -132,22 +59,21 @@
 									<div class="product-thumbnail">
 										<img src="img/shop/item5.jpg" alt="">
 									</div>
-									<h6><a href="#">Woo Album #2</a></h6>
+									<h6><a href="#">New Balance NB 女鞋</a></h6>
 								</td>
-								<td class="price">&pound;9</td>
+								<td class="price">￥399.00</td>
 								<td><input class="numeric-input" type="text" value="1">
-								<td class="price"><strong>&pound;9</strong></td>
+								<td class="price"><strong>￥399.00</strong></td>
 								<td><i class="icons remove-shopping-item icon-cancel-circled"></i></td>
 							</tr>
 							
 							<tr>
 								<td class="apply-coupon">
-									<input type="text">
-									<a href="#" class="button">Apply coupon</a>
+									
 								</td>
 								<td colspan="4" class="align-right">
-									<a href="#" class="button">Update cart</a>
-									<a href="shop-checkout.html" class="button button-arrow donate">Proceed to checkout</a>
+									
+									<a href="shop-checkout.html" class="button button-arrow donate">结算</a>
 								</td>
 							</tr>
 							
@@ -157,59 +83,35 @@
 						
 						<div class="row shopping-cart-forms">
 							
-							<div class="col-lg-5 col-md-5 col-sm-6">
-								
-								<h3 class="animate-onscroll">Cart Totals</h3>
-								
-								<table class="animate-onscroll">
-								
-									<tr>
-
-										<th>Cart Subtotal</th>
-										<th>&pound;64</th>
-									</tr>
-									
-									<tr>
-										<th>Shipping</th>
-										<td>Free shipping</td>
-									</tr>
-									
-									<tr>
-										<th>Order Total</th>
-										<th>&pound;64</th>
-									</tr>
-									
-								</table>
-								
-							</div>
+							
 							
 							
 							<div class="col-lg-7 col-md-7 col-sm-6">
 								
-								<h3 class="animate-onscroll">Calculate Shipping</h3>
+								<h3 class="animate-onscroll">收货地址</h3>
 								
 								<form class="update-totals-form animate-onscroll">
 								
 									<select class="chosen-select">
-										<option>United States</option>
-										<option>United Kindom</option>
-										<option>France</option>
-										<option>Germany</option>
+										<option>省份</option>
+										<option>北京</option>
+										<option>上海</option>
+										<option>广州</option>
 									</select>
 									
 									<div class="row inline-inputs">
 										
 										<div class="col-lg-6 col-md-6 col-sm-6">
-											<input type="text" placeholder="State / country">
+											<input type="text" placeholder="区">
 										</div>
 										
 										<div class="col-lg-6 col-md-6 col-sm-6">
-											<input type="text" placeholder="Postcode / Zip">
+											<input type="text" placeholder="详细地址">
 										</div>
 										
 									</div>
 									
-									<input type="submit" value="Update totals">
+									<input type="submit" value="设置为默认">
 								
 								</form>
 								
@@ -224,7 +126,7 @@
 						<div class="row related-products">
 							
 							<div class="col-lg-12 col-md-12 col-sm-12 animate-onscroll">
-								<h3>You may be interested in...</h3>
+								<h3>相关产品 </h3>
 							</div>
 							
 							<div class="col-lg-4 col-md-4 col-sm-6">
@@ -245,13 +147,13 @@
 									
 									<div class="shop-content">
 										
-										<h4><a href="shop-productpage.html">Woo Ninja</a></h4>
-										<span class="price">£35</span>
+										<h4><a href="shop-productpage.html">New Balance（NB）WL574BCC</a></h4>
+										<span class="price">￥479.00</span>
 										
 										<div class="shop-rating read-only" data-score="0"></div>
 										
-										<a href="#" class="button add-to-cart-button transparent">Add to cart</a>
-										<a href="shop-productpage.html" class="button details-button button-arrow transparent">Details</a>
+										<a href="#" class="button add-to-cart-button transparent">加入购物车</a>
+										<a href="shop-productpage.html" class="button details-button button-arrow transparent">详细内容</a>
 										
 									</div>
 									
@@ -277,18 +179,18 @@
 										</a>
 									</div>
 									
+									
 									<div class="shop-content">
 										
-										<h4><a href="shop-productpage.html">Woo Logo</a></h4>
-										<span class="price">£15</span>
+										<h4><a href="shop-productpage.html">New Balance（NB）WL574BCC</a></h4>
+										<span class="price">￥479.00</span>
 										
-										<div class="shop-rating read-only" data-score="4"></div>
+										<div class="shop-rating read-only" data-score="0"></div>
 										
-										<a href="#" class="button add-to-cart-button transparent">Add to cart</a>
-										<a href="shop-productpage.html" class="button details-button button-arrow transparent">Details</a>
+										<a href="#" class="button add-to-cart-button transparent">加入购物车</a>
+										<a href="shop-productpage.html" class="button details-button button-arrow transparent">详细内容</a>
 										
 									</div>
-									
 								</div>
 								<!-- /Shop Item -->
 							
@@ -312,23 +214,23 @@
 										</a>
 									</div>
 									
+									
 									<div class="shop-content">
 										
-										<h4><a href="shop-productpage.html">Woo Album #4</a></h4>
-										<span class="price">£9</span>
+										<h4><a href="shop-productpage.html">New Balance（NB）WL574BCC</a></h4>
+										<span class="price">￥479.00</span>
 										
-										<div class="shop-rating read-only" data-score="4"></div>
+										<div class="shop-rating read-only" data-score="0"></div>
 										
-										<a href="#" class="button add-to-cart-button transparent">Add to cart</a>
-										<a href="shop-productpage.html" class="button details-button button-arrow transparent">Details</a>
+										<a href="#" class="button add-to-cart-button transparent">加入购物车</a>
+										<a href="shop-productpage.html" class="button details-button button-arrow transparent">详细内容</a>
 										
 									</div>
-									
 								</div>
 								<!-- /Shop Item -->
 							
 							</div>
-						
+							
 						</div>
 						<!-- /Related Products -->
 						
@@ -344,7 +246,7 @@
 												<!-- Top Rated Products -->
 						<div class="sidebar-box white animate-onscroll">
 							
-							<h3>Top rated products</h3>
+							<h3>看了又看</h3>
 							
 							<ul class="shop-items-widget">
 								
@@ -353,8 +255,8 @@
 										<img src="img/shop/item3.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Album #1</a></h6>
-										<span class="price">£9</span>
+										<h6><a href="shop-productpage.html">UMBRO2016新款男装运动服/a></h6>
+										<span class="price">￥235.00</span>
 										<div class="shop-rating read-only-small" data-score="5"></div>
 									</div>
 								</li>
@@ -364,8 +266,8 @@
 										<img src="img/shop/item6.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Ninja</a></h6>
-										<span class="price">£20</span>
+										<h6><a href="shop-productpage.html">ASICS亚瑟士新款男路跑鞋男 </a></h6>
+										<span class="price">￥735.00</span>
 										<div class="shop-rating read-only-small" data-score="4.5"></div>
 									</div>
 								</li>
@@ -375,73 +277,20 @@
 										<img src="img/shop/item7.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Logo</a></h6>
-										<span class="price">£15</span>
+										<h6><a href="shop-productpage.html">斯伯丁Spalding 74-632Y篮球</a></h6>
+										<span class="price">￥135.00</span>
 										<div class="shop-rating read-only-small" data-score="5"></div>
 									</div>
 								</li>
 								
-							</ul>
-							
-						</div>
-						<!-- /Top Rated Products -->						<!-- Categories -->
-						<div class="sidebar-box category-box white animate-onscroll">
-							
-							<h3>Product Categories</h3>
-							<ul>
-								<li><a href="#">Clothing</a></li>
-								<li><a href="#">Music</a></li>
-								<li><a href="#">Posters</a></li>
-								<li><a href="#">T-shirts</a></li>
-							</ul>
-							
-						</div>
-						<!-- /Categories -->						<!-- Tags -->
-						<div class="sidebar-box white animate-onscroll">
-							
-							<h3>Tags</h3>
-							<a href="#" class="tag">interviews</a>
-							<a href="#" class="tag">design</a>
-							<a href="#" class="tag">development</a>
-							<a href="#" class="tag">marketing</a>
-							<a href="#" class="tag">press</a>
-							<a href="#" class="tag">projects</a>
-							<a href="#" class="tag">resources</a>
-							<a href="#" class="tag">tips</a>
-							<a href="#" class="tag">tricks</a>
-							<a href="#" class="tag">web</a>
-							
-						</div>
-						<!-- /Tags -->						<!-- Instagram Photos -->
-						<div class="sidebar-box white flickr-photos animate-onscroll">
-							<h3>Instagram Photos</h3>
-							<ul id="instagram-feed">
-							</ul>
-						</div>
-						<!-- /Instagram Photos -->						<!-- Top Rated Products -->
-						<div class="sidebar-box white animate-onscroll">
-							
-							<h3>Featured products</h3>
-							
-							<ul class="shop-items-widget">
-								
-								<li>
-									<div class="featured-image">
-										<img src="img/shop/item4.jpg" alt="">
-									</div>
-									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Album #1</a></h6>
-										<span class="price">£9</span>
-									</div>
-								</li>
-								
-								<li>
+                                <li>
 									<div class="featured-image">
 										<img src="img/shop/item6.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Ninja</a></h6>
-										<span class="price">£20</span>
+										<h6><a href="shop-productpage.html">ASICS亚瑟士新款男路跑鞋男 </a></h6>
+										<span class="price">￥735.00</span>
+										<div class="shop-rating read-only-small" data-score="4.5"></div>
 									</div>
 								</li>
 								
@@ -450,16 +299,43 @@
 										<img src="img/shop/item7.jpg" alt="">
 									</div>
 									<div class="shop-item-content">
-										<h6><a href="shop-productpage.html">Woo Logo</a></h6>
-										<span class="price">£15</span>
+										<h6><a href="shop-productpage.html">斯伯丁Spalding 74-632Y篮球</a></h6>
+										<span class="price">￥135.00</span>
+										<div class="shop-rating read-only-small" data-score="5"></div>
 									</div>
 								</li>
-								
 							</ul>
 							
 						</div>
-						<!-- /Top Rated Products -->						
-						
+						<!-- /Top Rated Products -->						<!-- Categories -->
+						<div class="sidebar-box category-box white animate-onscroll">
+							
+							<h3>商品分类：</h3>
+							<ul>
+								<li><a href="#">衣服</a></li>
+								<li><a href="#">鞋</a></li>
+								<li><a href="#">球类</a></li>
+								<li><a href="#">其他</a></li>
+							</ul>
+							
+						</div>
+						<!-- /Categories -->						<!-- Tags -->
+						<div class="sidebar-box white animate-onscroll">
+							
+							<h3>标签</h3>
+							<a href="#" class="tag">潮流</a>
+							<a href="#" class="tag">设计</a>
+							<a href="#" class="tag">鲜明</a>
+							<a href="#" class="tag">经典</a>
+							<a href="#" class="tag">舒服</a>
+							<a href="#" class="tag">耐穿</a>
+							<a href="#" class="tag">前卫</a>
+							<a href="#" class="tag">怀旧</a>
+							<a href="#" class="tag">成熟</a>
+							<a href="#" class="tag">青春</a>
+							
+						</div>
+						<!-- /Tags -->					
 					</div>
 					<!-- /Sidebar -->
 					
@@ -472,5 +348,6 @@
 			<!-- /Section -->
 		
 		</section>
+        </div>
 </asp:Content>
 
