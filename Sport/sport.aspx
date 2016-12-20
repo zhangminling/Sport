@@ -28,167 +28,151 @@
             <ul>
               <li>
                 <div class="post-container">
-                  <div class="left-content">
-                    <img src="assets/img//119_119.jpg" alt="post-img" class="post-img">
-                    
-                  </div>
-                  <div class="right-content">
-                    <a href="#" class="title-post">
-                      Here come bloag title lorem ipsum dolor ? Dino nino
-                      ou can’t take this test because dorms afnt
-                    </a>
-                    <div class="clear"></div>
-                    <div class="info-post">
-                      <ul>
-                        <li>
-                          <img src="assets/img/user-post-icon.png" alt="user">
-                          <p><a href="#">Ses Vasile Daniel</a> in <a href="#">developing</a></p>
-                        </li>
-                        <li>
-                          <img src="assets/img/comments-post-icon.png" alt="comment">
-                          <p><a href="#">comments</a></p>
-                        </li>
-                        <li>
-                          <img src="assets/img/time-post-icon.png" alt="time">
-                          <p><a href="#">21 Mai 2013</a></p>
-                        </li>
-                      </ul>
-                    </div>
-                    <p class="content-post-text">
-                      Morbi gravida, ligula eget lacinia auctor, mi quam vestibulum dolor, in iaculis ante nulla eu nisi. Integer molestie commodo euismod. Morbi pellentesque turpis diam, ac interdum erat rutrum et. Aliquam dapibus
-                    </p>
-                    <a href="blog-page-single.html" class="read-more">
-                      Read more
-                    </a>
-                  </div>
-                  <div class="clear"></div>
+              <div class="left-content">
+                <img alt="post-img" class="post-img" src="assets/img/activity/activity1.jpg" />
+              </div>
+              <div class="right-content">
+                <a class="title-post" href="blog-page-single.html">  戶外 ▏徒步广州 城内中山先生线(免费)，约么？</a>
+                <div class="clear"></div>
+
+                <div class="info-post">
+                  <ul>
+                    <li><p>历史</p></li>
+                    <li><p>文化</p></li>
+                    <li><p>学术</p></li>
+                    <li><p>老广州</p></li>
+                  </ul>
                 </div>
+
+                 <div class="info-point">
+                  <ul>
+                    <li>
+                      <p>时间：2016/12/15</p>
+                    </li>
+                    <li>
+                      <p>地点：广州 海珠区广州市荔湾区沿江西路29号</p>
+                    </li>
+                    <li>
+                      <p>发起人：Luise_Zitrone</p>
+                    </li>                     
+                  </ul>
+                </div>
+                  <a class="read-more template-based-element-background-color" href="sport-single.aspx">详情</a>
+              </div>
+
+              <div class="clear"></div>
+            </div>
               </li>
               <li>
                 <div class="post-container">
-                  <div class="left-content">
-                    <img src="assets/img//119_119.jpg" alt="post-img" class="post-img">
-                    
-                  </div>
-                  <div class="right-content">
-                    <a href="#" class="title-post">
-                      Here come bloag title lorem ipsum dolor ? Dino nino
-                      ou can’t take this test because dorms afnt
-                    </a>
-                    <div class="clear"></div>
-                    <div class="info-post">
-                      <ul>
-                        <li>
-                          <img src="assets/img/user-post-icon.png" alt="user">
-                          <p><a href="#">Ses Vasile Daniel</a> in <a href="#">developing</a></p>
-                        </li>
-                        <li>
-                          <img src="assets/img/comments-post-icon.png" alt="comment">
-                          <p><a href="#">comments</a></p>
-                        </li>
-                        <li>
-                          <img src="assets/img/time-post-icon.png" alt="time">
-                          <p><a href="#">21 Mai 2013</a></p>
-                        </li>
-                      </ul>
-                    </div>
-                    <p class="content-post-text">
-                      Morbi gravida, ligula eget lacinia auctor, mi quam vestibulum dolor, in iaculis ante nulla eu nisi. Integer molestie commodo euismod. Morbi pellentesque turpis diam, ac interdum erat rutrum et. Aliquam dapibus
-                    </p>
-                    <a href="blog-page-single.html" class="read-more">
-                      Read more
-                    </a>
-                  </div>
-                  <div class="clear"></div>
+              <div class="left-content">
+                <img alt="post-img" class="post-img" src="assets/img/activity/activity2.jpg" />
+              </div>
+              <div class="right-content">
+                <a class="title-post" href="blog-page-single.html">  游泳 ▏广州奥体游泳馆游泳活动</a>
+                <div class="clear"></div>
+
+                <div class="info-post">
+                  <ul>
+                    <li><p>健身</p></li>
+                    <li><p>交流</p></li>
+                    <li><p>运动</p></li>
+                    <li><p>同城</p></li>
+                  </ul>
                 </div>
+
+                 <div class="info-point">
+                  <ul>
+                    <li>
+                      <p>时间：2016/2/5</p>
+                    </li>
+                    <li>
+                      <p>地点：广州 天河区 黄村奥林匹克中心</p>
+                    </li>
+                    <li>
+                      <p>发起人：乐友</p>
+                    </li>                     
+                  </ul>
+                </div>
+                  <a class="read-more template-based-element-background-color" href="sport-single.aspx">详情</a>
+              </div>
+
+              <div class="clear"></div>
+            </div>
               </li>
               <li>
                 <div class="post-container">
-                  <div class="left-content">
-                    <img src="assets/img/119_119.jpg" alt="post-img" class="post-img">
-                    
-                  </div>
-                  <div class="right-content">
-                    <a href="#" class="title-post">
-                      Here come bloag title lorem ipsum dolor ? Dino nino
-                      ou can’t take this test because dorms afnt
-                    </a>
-                    <div class="clear"></div>
-                    <div class="info-post">
-                      <ul>
-                        <li class="information-post-li">
-                          <img src="assets/img/user-post-icon.png" alt="user">
-                          <p><a href="#">Ses Vasile Daniel</a> in <a href="#">developing</a></p>
-                          <div class="clear"></div>
-                        </li>
-                        <li class="information-post-li">
-                          <img src="assets/img/comments-post-icon.png" alt="comment">
-                          <p><a href="#">comments</a></p>
-                          <div class="clear"></div>
-                        </li>
-                        <li class="information-post-li">
-                          <img src="assets/img/time-post-icon.png" alt="time">
-                          <p><a href="#">21 Mai 2013</a></p>
-                          <div class="clear"></div>
-                        </li>
-                      </ul>
-                      <div class="clear"></div>
-                    </div>
-                    <div class="clear"></div>
-                    <p class="content-post-text">
-                      Morbi gravida, ligula eget lacinia auctor, mi quam vestibulum dolor, in iaculis ante nulla eu nisi. Integer molestie commodo euismod. Morbi pellentesque turpis diam, ac interdum erat rutrum et. Aliquam dapibus
-                    </p>
-                    <div class="clear"></div>
-                    <a href="blog-page-single.html" class="read-more">
-                      Read more
-                    </a>
-                  </div>
-                  <div class="clear"></div>
+              <div class="left-content">
+                <img alt="post-img" class="post-img" src="assets/img/activity/activity3.jpg" />
+              </div>
+              <div class="right-content">
+                <a class="title-post" href="blog-page-single.html">  CBD Hangout ▏周末我们一起去爬白云山吧</a>
+                <div class="clear"></div>
+
+                <div class="info-post">
+                  <ul>
+                    <li><p>爬山</p></li>
+                    <li><p>文化</p></li>
+                    <li><p>交流</p></li>
+                    <li><p>运动</p></li>
+                  </ul>
                 </div>
+
+                 <div class="info-point">
+                  <ul>
+                    <li>
+                      <p>时间：2016/10/5</p>
+                    </li>
+                    <li>
+                      <p>地点：广州 白云区 京溪地铁站C出口</p>
+                    </li>
+                    <li>
+                      <p>发起人：无水</p>
+                    </li>                     
+                  </ul>
+                </div>
+                  <a class="read-more template-based-element-background-color" href="sport-single.aspx">详情</a>
+              </div>
+
+              <div class="clear"></div>
+            </div>
               </li>
               <li>
                 <div class="post-container">
-                  <div class="left-content">
-                    <img src="assets/img/119_119.jpg" alt="post-img" class="post-img">
-                    
-                  </div>
-                  <div class="right-content">
-                    <a href="#" class="title-post">
-                      Here come bloag title lorem ipsum dolor ? Dino nino
-                      ou can’t take this test because dorms afnt
-                    </a>
-                    <div class="clear"></div>
-                    <div class="info-post">
-                      <ul>
-                        <li class="information-post-li">
-                          <img src="assets/img/user-post-icon.png" alt="user">
-                          <p><a href="#">Ses Vasile Daniel</a> in <a href="#">developing</a></p>
-                          <div class="clear"></div>
-                        </li>
-                        <li class="information-post-li">
-                          <img src="assets/img/comments-post-icon.png" alt="comment">
-                          <p><a href="#">comments</a></p>
-                          <div class="clear"></div>
-                        </li>
-                        <li class="information-post-li">
-                          <img src="assets/img/time-post-icon.png" alt="time">
-                          <p><a href="#">21 Mai 2013</a></p>
-                          <div class="clear"></div>
-                        </li>
-                      </ul>
-                      <div class="clear"></div>
-                    </div>
-                    <div class="clear"></div>
-                    <p class="content-post-text">
-                      Morbi gravida, ligula eget lacinia auctor, mi quam vestibulum dolor, in iaculis ante nulla eu nisi. Integer molestie commodo euismod. Morbi pellentesque turpis diam, ac interdum erat rutrum et. Aliquam dapibus
-                    </p>
-                    <div class="clear"></div>
-                    <a href="blog-page-single.html" class="read-more">
-                      Read more
-                    </a>
-                  </div>
-                  <div class="clear"></div>
+              <div class="left-content">
+                <img alt="post-img" class="post-img" src="assets/img/activity/activity3.jpg" />
+              </div>
+              <div class="right-content">
+                <a class="title-post" href="blog-page-single.html">  CBD Hangout ▏周末我们一起去爬白云山吧</a>
+                <div class="clear"></div>
+
+                <div class="info-post">
+                  <ul>
+                    <li><p>爬山</p></li>
+                    <li><p>文化</p></li>
+                    <li><p>交流</p></li>
+                    <li><p>运动</p></li>
+                  </ul>
                 </div>
+
+                 <div class="info-point">
+                  <ul>
+                    <li>
+                      <p>时间：2016/10/5</p>
+                    </li>
+                    <li>
+                      <p>地点：广州 白云区 京溪地铁站C出口</p>
+                    </li>
+                    <li>
+                      <p>发起人：无水</p>
+                    </li>                     
+                  </ul>
+                </div>
+                  <a class="read-more template-based-element-background-color" href="sport-single.aspx">详情</a>
+              </div>
+
+              <div class="clear"></div>
+            </div>
               </li>
             </ul>
             <ul class="list-blog-pages">
@@ -207,7 +191,7 @@
         <ul class="widgets-ul">
           <li>
             <div class="widget">
-              <h1 class="underline-title">next <span>event</span></h1>
+              <h1 class="underline-title">最近 <span>一周</span></h1>
               <div class="underline-bg">
                 <div class="underline"></div>
               </div>
@@ -224,30 +208,30 @@
                           <ul class="time-left">
                             <li>
                               <p class="number-time">02</p>
-                              <p class="type-time">days</p>
+                              <p class="type-time">天</p>
                             </li>
                             <li>
                               <p class="number-time">14</p>
-                              <p class="type-time">hour</p>
+                              <p class="type-time">小时</p>
                             </li>
                             <li>
                               <p class="number-time">22</p>
-                              <p class="type-time">min</p>
+                              <p class="type-time">分</p>
                             </li>
                             <li>
                               <p class="number-time">07</p>
-                              <p class="type-time">sec</p>
+                              <p class="type-time">秒</p>
                             </li>
 
                           </ul>
                           <div class="clear"></div>
                           <div class="tiket-info">
-                            <a href="events-single-page.html">buy tickets</a>
+                            <a href="events-single-page.html">活动报名</a>
                           </div>
                           <ul class="place-time-event-slider">
                             <li>
                                   <img src="assets/img/place-icon.png" alt="place">
-                                <p> New York</p>
+                                <p> 广州</p>
                             </li>
                             <li>
                                   <img src="assets/img/time-icon.png" alt="time">
@@ -268,7 +252,7 @@
           </li>
           <li>
             <div class="widget">
-              <h1 class="underline-title">upcoming <span>event</span></h1>
+              <h1 class="underline-title">近期 <span>活动</span></h1>
               <div class="underline-bg">
                 <div class="underline"></div>
               </div>
@@ -283,25 +267,25 @@
                         </figure>
                         <div class="info info-2-time-left">
                           <ul class="time-left sidebar-time-left">
+                            <li class="year-event-block">
+                              <p class="number-time">2016</p>
+                            </li>
                             <li>
-                              <p class="number-time">03</p>
+                              <p class="number-time">12</p>
                             </li>
                             <li>
                               <p class="number-time">14</p>
-                            </li>
-                            <li class="year-event-block">
-                              <p class="number-time">2013</p>
                             </li>
 
                           </ul>
                           <div class="clear"></div>
                           <div class="tiket-info">
-                            <a href="events-single-page.html">more info</a>
+                            <a href="events-single-page.html">活动报名</a>
                           </div>
                           <ul class="place-time-event-slider">
                             <li>
                                   <img src="assets/img/place-icon.png" alt="place">
-                                <p> New York</p>
+                                <p> 广州</p>
                             </li>
                             <li>
                                   <img src="assets/img/time-icon.png" alt="time">
@@ -325,25 +309,25 @@
                         </figure>
                         <div class="info info-2-time-left">
                           <ul class="time-left sidebar-time-left">
-                            <li>
-                              <p class="number-time">03</p>
-                            </li>
-                            <li>
-                              <p class="number-time">14</p>
-                            </li>
                             <li class="year-event-block">
-                              <p class="number-time">2013</p>
+                              <p class="number-time">2017</p>
+                            </li>
+                            <li>
+                              <p class="number-time">3</p>
+                            </li>
+                            <li>
+                              <p class="number-time">13</p>
                             </li>
 
                           </ul>
                           <div class="clear"></div>
                           <div class="tiket-info">
-                            <a href="events-single-page.html">buy tickets</a>
+                            <a href="events-single-page.html">活动报名</a>
                           </div>
                           <ul class="place-time-event-slider">
                             <li>
                                   <img src="assets/img/place-icon.png" alt="place">
-                                <p> New York</p>
+                                <p> 广州</p>
                             </li>
                             <li>
                                   <img src="assets/img/time-icon.png" alt="time">
@@ -367,25 +351,25 @@
                         </figure>
                         <div class="info info-2-time-left">
                           <ul class="time-left sidebar-time-left">
-                            <li>
-                              <p class="number-time">03</p>
-                            </li>
-                            <li>
-                              <p class="number-time">14</p>
-                            </li>
                             <li class="year-event-block">
-                              <p class="number-time">2013</p>
+                              <p class="number-time">2017</p>
+                            </li>
+                            <li>
+                              <p class="number-time">5</p>
+                            </li>
+                            <li>
+                              <p class="number-time">30</p>
                             </li>
 
                           </ul>
                           <div class="clear"></div>
-                          <div class="tiket-info canceled">
-                            <a href="events-single-page.html">canceled</a>
+                          <div class="tiket-info">
+                            <a href="events-single-page.html">活动报名</a>
                           </div>
                           <ul class="place-time-event-slider">
                             <li>
                                   <img src="assets/img/place-icon.png" alt="place">
-                                <p> New York</p>
+                                <p> 广州</p>
                             </li>
                             <li>
                                   <img src="assets/img/time-icon.png" alt="time">
@@ -403,48 +387,7 @@
               <div class="clear"></div>
             </div>
           </li>
-          <li>
-            <div class="widget">
-              <h1 class="underline-title">latest <span>albums</span></h1>
-              <div class="underline-bg">
-                <div class="underline"></div>
-              </div>
-              <div class="clear"></div>
-              <ul class="side-bar-list">
-                <li class="sidebar-list-li li-event-single">
-                  <div class="widget-bg">
-                    <img src="assets/img/280_278.jpg" alt="latest-albums-pic" class="album-pic-widget">
-                    <ul class="ddd">
-                      <li>
-                        <a class="download-album">download</a><span class="arrow-drop-down-download"><span class="arrow-ddd"></span></span>
-                        <ul class="sub-ddd">
-                          <li>
-                            <a href="#" class="download-album-ddd">beatport <span class="arrow-drop-down-download-ddd"><span class="arrow-ddd"></span></span></a>
-                          </li>
-                          <li>
-                            <a href="#" class="download-album-ddd">amazon <span class="arrow-drop-down-download-ddd"><span class="arrow-ddd"></span></span></a>
-                          </li>
-                        </ul>
-                      </li>
-                    </ul>
-                    <ul class="info-album">
-                      <li>
-                        <p class="title-info">Release date</p>
-                        <p>2013-09-08</p>
-                      </li>
-                      <li>
-                        <p class="title-info">Genre:</p>
-                        <p>Hip Hop</p>
-                      </li>
-                    </ul>
-                    <div class="clear"></div>
-                  </div>
-                </li>
-              </ul>
-
-
-            </div>
-          </li>
+         
         </ul>
       </div>
   </div>

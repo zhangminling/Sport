@@ -4,10 +4,10 @@
 <div class="container-960 bg-page-bar">
   <div class="page-bar">
     <h1 class="title-page">
-      Blog Single Post
+      约记分享
     </h1>
     <span class="right">
-      <a href="#">Home</a> / <a href="#">Blog</a> / <a href="#">Tere come bloag tite...</a>
+      <a href="#">首页</a> / <a href="#">约记分享</a> / <a href="#">精彩分享</a>
     </span>
     <div class="clear"></div>
   </div>
@@ -242,7 +242,7 @@
 
           <li>
             <div class="widget">
-              <h1 class="underline-title">latest <span>albums</span></h1>
+              <h1 class="underline-title">活动<span>照片</span></h1>
               <div class="underline-bg">
                 <div class="underline"></div>
               </div>
@@ -285,7 +285,7 @@
 
           <li>
             <div class="widget">
-              <h1 class="underline-title">latest <span>video</span></h1>
+              <h1 class="underline-title">全部<span>相册</span></h1>
 
               <div class="underline-bg">
                 <div class="underline"></div>

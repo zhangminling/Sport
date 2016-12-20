@@ -4,8 +4,8 @@
 
   <div class="bg-page-bar page-bar-single-pages">
     <div class="page-bar">
-      <h1 class="title-page">event</h1><span class="right"><a href="index.aspx">首页</a>
-      / <a href="business-activities.aspx">活动热点</a> / <a href="#">Event review</a></span>
+      <h1 class="title-page">运动热点</h1><span class="right"><a href="index.aspx">首页</a>
+      / <a href="business-activities.aspx">运动热点</a> / <a href="#">当前热点</a></span>
 
       <div class="clear"></div>
     </div>
@@ -30,11 +30,10 @@
               <ul class="side-bar-list">
                 <li class="sidebar-list-li">
                   <div class="widget-bg">
-                    <img alt="latest-albums-pic" class="album-pic-widget" src=
-                    "assets/img/280_278.jpg">
-
+                    <img alt="latest-albums-pic" class="album-pic-widget" src="assets/img/activity/single1.png" />
+                      
                     <div class="date-event-single">
-                      <p>10 / NOVEMBER / 2013</p>
+                      <p>2016 / 12 / 15</p>
                     </div>
 
                     <div class="clear"></div>
